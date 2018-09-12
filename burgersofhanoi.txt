@@ -1,0 +1,7 @@
+Burgers of Hanoi
+
+Game for Master System
+
+1.00	10 Feb 2012	smccd
+
+Help Burly Bear making burgers – but in a different way you might expect!

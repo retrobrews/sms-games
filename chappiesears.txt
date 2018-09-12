@@ -1,0 +1,7 @@
+Chappie's Ears Simon Game
+Game for Master System 
+1.10	27 Mar 2015	furrtek	
+
+Small Sega Master System game I made for smspower's 2015 coding compo. Almost got it all right !
+Repeat steps with ear!
+Controls are left and right. 

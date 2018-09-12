@@ -1,0 +1,78 @@
+Ȼi̅x̅ (CIX)
+Game for Master System 
+1.00	27 Mar 2016	PkK
+
+Ȼi̅x̅ is an action/puzzle game inspired by Qix. 
+It has a simultaneous two-player mode.
+
+I originally wrote the game for the ColecoVision. 
+This is a port to the Sega consoles. 
+It should work on SG-1000, SC-3000, Mark III 
+and Master System, but so far has only been tested 
+in the emulator Meka, not yet on real hardware.
+
+I consider this version a demo, since it has only 
+one level. I intend to make an improved version later. 
+The current demo version should already help in 
+finding bugs or violations of UI expectations.
+
+_______________________________________________________________
+Manual:
+Once Qix tried to invade our universe,
+entering at the arcade halls, and was fought
+back by restless arcade players.
+Now Ȼi ̅x̅ has followed. Careful not to repeat
+the mistakes of its predecessor, it tries a
+different route - through the ColecoVisions!
+Will the ColecoVision players be up to the
+challenge?
+The goal of the game is to claim a
+supermajority of the playing field by fencing
+off parts of the central black area, filling them
+with blue.
+The player controls a diamond-shaped marker
+(red for the first, blue for the second player) .
+The direction of the marker can be changed
+using the joystick. When the direction
+indicated by the joystick is toward the blue
+outside, the marker stops. When i t is directed
+towards the black inside, a Stix is started. The
+Stix is completed when the marker reaches
+the border again. At that moment, the part of
+the black area that does not contain Ȼi ̅x̅ is
+filled.
+When the player touches a Stix (e. g. by
+moving in a spiral pattern) a l i fe is lost. When
+A marker is touched by Ȼi ̅x̅ whi le drawing a
+Stix, alifeis lost. When a merker is touched
+by Sparx, a life is lost.
+Sparx are spawned by Ȼi ̅x̅. When they reach
+the border of the black area, they keep
+moving along i t. Depending on the current
+level , Ȼi ̅x̅ can spawn up to four Sparx.
+Another aspect of the game depending on the
+current level is the aggressiveness and speed
+at which Ȼi ̅x̅ moves.
+Sometimes a yel low bonus symbol appears
+on the field. Capturing i t by drawing a Stix
+through i ts middle or fi l l ing the area i t is in
+resul ts in extra points for the score. Ki l l ing
+Sparx or markers by fi l l ing the area they are
+in also resul ts in extra points.
+A level is won once a large enough part of the
+black area has been fi l led in blue. At easy
+di fficul ty 50% need to be fi l led, at medium
+di fficul ty 75% need to be fi l led, and at hard
+di fficul ty 90% need to be fi l led.
+The current score of the first player is
+displayed in the upper right corner. Next to it
+is the numbers of l i fes remaining for the first
+player. In two player mode, the corresponding
+numbers for the second player are displayed
+in the upper left corner. The current level is
+always displayed in the middle.
+The game version number can be found in
+the difficul ty selection screen.
+
+_______________________________________________________________
+PDF manual --> http://www.smspower.org/uploads/Homebrew/Cix-SMS-manual.zip

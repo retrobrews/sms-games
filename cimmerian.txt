@@ -1,0 +1,67 @@
+CIMMERiAN
+Game for Master System 
+
+1.02	27 Mar 2016	ichigobankai
+
+CIMMERIAN for SMSPower! competition 2016 by Ichigobankai
+
+A "pseudo" port of the famous Barbarian. ("pseudo" because i've changed many little things)
+
+This demo includes
+
+    Story & VS Mode (story for 1 player with score + AI, VS. no score for 2 players)
+    3 arenas
+    "random" players colors scheme
+    no samples/sfx, music taken from a WWF game on GameGear (just to be sure that the lib works properly)
+    intro image are not the good ones, picked from Conan the Barbarian movie ;) 
+
+FINAL PRODUCT will have:
+
+    Bugs free (I hope)
+    Finalized AI (for story & death mode)
+    Mountain of Crom (aka Hall of Fame) + hi-score saved in sram
+    Screen options for Vs. mode (choose player, how many rounds, arena)
+    10 different arenas
+    Intro & outro images
+    Samples / sfx / musics 
+
+Tools :
+
+    SDCC (vingazole's lib)
+    PSGlib
+    VGM2PSG
+    WLA-DX
+    PNG2Tiles / BMP2Tiles
+    Python 2.7 for many homemade scripts
+    My good old friend Photoshop
+    Smultron (advanced notepad, for mac)
+    Time
+    Ton of Tea 
+
+Hope you'll like it !
+
+More informations :
+
+- Menu : Left / Right to select the game mode - A or B to validate your choice. 
+
+In Game Controls - for right-facing character (left-facing character the moves are reversed)
+
+D-PAD w/o any button pressed:
+UP: jump
+LEFT-UP:    protect head
+RIGHT-UP:   protect body
+LEFT:       move back
+RIGHT:      move forward
+LEFT-DWN:   roll back
+RIGHT-DWN:  roll forward
+DOWN:       crouch
+
+D-PAD w hit (start/A) button pressed:
+UP:        neck chop
+LEFT-UP:   web of death
+RIGHT-UP:  head butt chop
+LEFT:      flying neck chop
+RIGHT:     body chopp
+LEFT-DWN:  overhead chop
+RIGHT-DWN: kick
+DOWN:      leg chop

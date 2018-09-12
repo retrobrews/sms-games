@@ -1,0 +1,6 @@
+Casevac
+Game for Master System 
+
+1.00	16 Aug 2016	STIR_FC
+
+Combat abulance. There are 10 wounded in your area of operations. Depart the fob on casevac mission to evacuate all wounded.

@@ -1,0 +1,16 @@
+Cye
+Game for Master System 
+1.00	27 Mar 2016	PkK
+ 
+This is a port of the Boulderdash/Sokoban-like game Kye to the Sega consoles. It is based on a port I originally wrote for the ColecoVision, 
+but there are a few differences, in particular in the menu interface and the graphics.
+
+It should work on SG-1000, SC-3000, Mark III and Master System, but so far has only been tested in the emulator Meka, not yet on real hardware.
+
+There is code in the game to automatically detect the system it is running on. On the Mark III and Master System the full graphics are used, 
+while the SG-1000 and SC-3000 have simplified graphics. Unfortunately I don't know of any emulator that emulates the hardware features for 
+the autodetection correctly, and don't have SG-1000 or SC-3000 hardware myself.
+
+I consider this version a demo version, since it does not yet have all the levels I want to put into this game.
+
+PDF manual --> http://www.smspower.org/uploads/Homebrew/Cye-SMS-manual.zip

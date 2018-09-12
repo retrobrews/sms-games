@@ -1,0 +1,14 @@
+Colossal Cave Adventure SAM Edition
+Game for Master System 
+Software licence: Unlicense
+0.2	27 Mar 2014	haroldoop
+
+Description
+
+This is my entry for the context: it's called Colossal Cave Adventure SAM Edition. 
+As the name says, it's basically an adaptation of the classic Colossal Cave Adventure for Twee2SAM. 
+So far, the base layout of the cave is already there; it was semi-automatically converted from the 
+source code of the Inform version (http://ifarchive.org/indexes/if-archiveXgamesXsourceXinform.html) 
+and then manually cleaned up. Currently, almost all of the obstacles and puzzles are missing; 
+I intend to add them later. 
+Just for kicks, I have also added a few images, hand sketched by someone with zero artistic talent (me) :P 
