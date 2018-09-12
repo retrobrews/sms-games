@@ -1,0 +1,6 @@
+LD19 Practice Game
+Game for Master System 
+
+1.00	23 Dec 2011	thematrixeatsyou
+
+Move the silver DOT for the colored key to get the doors unlocked.

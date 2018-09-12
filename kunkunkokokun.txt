@@ -1,0 +1,84 @@
+-------------------------------------------
+ KunKun & KokoKun
+ a Sega Master System 32kb Game
+ by Omar Cornut (Bock)
+ E-mail: omar [at] cornut [dot] fr
+ Web:    http://www.smspower.org
+-------------------------------------------
+ Version 1.0
+ Released 2006/03/27
+-------------------------------------------
+
+ This is my contribution to SMS Power! Coding Competition 2006:
+    http://www.smspower.org/dev/competition/
+ 
+ KunKun & KokoKun is a tribute to old school arcade games.
+ It is cute, short, yet difficult and unforgiving.
+ 
+ Features!
+ 
+  - BLUE SKY WITH SUN
+  - A PRINCESS TO SAVE
+
+-------------------------------------------
+ Story
+-------------------------------------------
+ 
+  1. KunKun is a happy orange blob.
+  2. KokoKun is a happy pink princess blob.
+  3. KokoKun was taken hostage by some evil black blob.
+     (who hides in the SMS video memory but doesn't show up on screen)
+  4. KunKun has to go and save KokoKun.
+  5. The world is saved, everyone can live in peace.
+  6. Repeat 3 times.
+
+-------------------------------------------
+ Controls
+-------------------------------------------
+
+  - D-Pad left  : move left
+  - D-Pad right : move right
+  - D-Pad up    : stick to ladder, climb ladder, jump
+  - D-Pad down  : climb ladder down
+  - Button 1    : jump left
+  - Button 2    : jump right
+  
+  It is important to note that "KunKun & KokoKun" is not an action
+  game. Please don't rush and jump everywhere or you won't last.
+  
+  Every level has doors to open using switches. Just pass next to
+  a switch to activate it.
+
+-------------------------------------------
+ Made using
+-------------------------------------------
+ 
+  - WLA-DX for assembling Z80 code.
+  - Paint Shop Pro 7 for drawing graphic and level mockups.
+  - Maxim's Bmp2Tile for generating tileset and tilemap.
+  - Visual Studio 7 for editing.
+  - MEKA for emulating and debugging.
+
+-------------------------------------------
+ Scrapped
+-------------------------------------------
+ 
+ What did not make it for the competition deadline:
+ 
+  - No sound, sorry :(
+  - Scoring/timing system.
+  - Ending sequence was badly cut.
+  - Plenty of game features I thought about that were not implemented.
+  - More cute animations.
+  - More levels.
+
+-------------------------------------------
+ Greetings
+-------------------------------------------
+ 
+   All SMS Power! members and regulars.
+   All SMS Fans in the world.
+
+-------------------------------------------
+
+ Enjoy!!!
