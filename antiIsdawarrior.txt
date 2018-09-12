@@ -1,0 +1,118 @@
+                            AntiISDA Warrior
+
+                      Sega Master System Version
+
+                           v1.02 (16.04.2004)
+
+
+               code and graphics by Ventzislav Tzvetkov
+
+                         Music by Maze/Apathy
+
+-- 
+
+Introduction:
+=============
+
+  Your server full with all those 15 years old Sega Master System software,
+of which nobody cares anymore since ages, unfortunately is being   attacked
+by some ISDA agents and they want to format your only hard disk   you  ever
+owned (40MB).
+
+  They are attacking from various ports,  so you have  to  aim  your   ping
+bombs more precisely with the joypad keys or the joystick. Press (A) or (B)
+to shoot.
+
+Good Luck.
+
+-- 
+
+Български:
+==========
+                            АнтиИЗДА Боец
+
+  Сървъра ви пълен с 15 годишен стар Сега Мастер Систем софтуер,за който
+никой не го е грижа от цели епохи,за нещастие е атакуван от няколко ИСДА
+агенти и те искат да форматират единствения диск, който някога сте имали
+(40МБ).
+
+  Тъй като те атакуват от различни портове, е необходимо да насочвате
+по прецизно пинг-бомбите си джойстик контролера. Натиснете (A) или
+(B) за стрелба.
+
+Управление:
+
+  За управление използвайте джойстика.
+
+  За стрелба копче (A) или (B).
+
+Успех.
+
+-- 
+
+Credits:
+========
+
+  "AntiISDA Warrior" - is Copyright 2003-2004 © by Ventzislav Tzvetkov.
+
+  Reach me electronically at:
+ 
+   http://drhirudo.hit.bg
+
+ This game is also available for Vic-20, GameBoy, IBM-PC, Amiga, Sinclair
+ ZX Spectrum, Apple II and Oric. Versions for other platforms are/will be
+ available from my website, when they are ready.
+
+-- 
+
+Legal Issues:
+=============
+
+  This software can be freely copied, as long as it remains in its
+ original form, and the archive is intact.
+
+  `AntiISDA Warrior' is provided  "AS-IS"  without any warranties.
+Although I did my best for it being bug free,  there still might be  some
+hidden ones, of which I am not aware. That's why I am NOT responsible for
+any damages caused by this software.
+
+-- 
+
+Sources:
+========
+
+The sources are available for every specific platform in the particular
+archives.
+
+The Sega Master System version was assembled with WLA-DX 7.1. For
+testing AmiMasterGear v0.82 and MekaW v0.68 were used. Some other
+tools used during development of the Master System  version  are:
+Mod2PSG v1.8 by Martin Konrad,  Personal Paint 7.1b  by  Cloanto,
+VBCC v0.8 by Volker Barthelmann, NetWork PC  v3.8  by Michal Kara
+and many other.
+
+The Vic-20 version was assembled with dasm v2.12.04. For testing
+VicEmu 0.70 and for text editor, Cygnus-Ed Pro V4.17 were used.
+
+The GameBoy version was compiled with GBDK v2.1.0-1. For testing
+Wzonka-Lad and AmiGameBoy emulators were used. For text editor,
+Cygnus-Ed Pro V4.17 was used.
+
+The PC version was compiled with Borland Turbo C++ v1.01, on PC-Task 4.4.
+For text editor, Cygnus-Ed Pro V4.17 was used, and for writing to the
+hardfile - mshf.device from PCx v1.1.
+
+The Amiga version was compiled with VBCC v0.8. EditPad was used for
+text editor and Personal Paint 7.1 for some drawings.
+
+The Apple 2 version was written directly on Apple2000e (The Apple 2e
+emulator for Amiga), and compiled with TASC compiler.
+
+The Oric version was written directly on AmOric V1.5 - the Oric emulator
+for Amiga.
+
+The Sinclair version was written directly on ZXAM 2.0B - Sinclair ZX
+Spectrum emulator for Amiga.
+
+All versions were developed on Amiga computers.
+-- 

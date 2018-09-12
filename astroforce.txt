@@ -1,0 +1,30 @@
+Astro Force
+Game for Master System 
+
+Here are the promised shmup. I wanted to do a classical shooter like those I played 30 years ago.
+
+RSG - Thunder force - Gaiares - Aleste - R-type - MSX nemesis games are my inspiration here. 
+Remember the day I bought japanese import gaiares at a little shop here in Malaga. 
+The feelings the first time I played. Never will forget that day. That's the spirit.
+
+At title screen, one button enter the game, other enter the jukebox and options page. 
+Do yourself a favor and put 6 lifes.
+
+Playability is finely tuned (I think) some memorization and things will be easier. 
+There are continues. Ctrl+F1 in emulicious helps a lot! Actually I finish the game with two continues :)
+6 stages, each with its own concepts, music, graphics and enemies + final boss stage
+11 bosses
+30+ enemy types
+Intro, ending
+What I like the most? the music. Mod2PSG it the perfect tool for a music snob like me.
+
+Source code is included although I not feel him finished (i'm bothering with each time 
+less performance issues). Simply, it's my toy. I dont want to stop now. Have to test 
+some ideas with retracing and interrupts, test if can update scroll and tiles every 
+two frames (instead one as it is now) keeping animation. Optimizing some parts of code.
+
+If someone thinks can help with some custom z80 assembly functions, doing profile at 
+emulicious (I cannot... doesn't understand whats really going there), 
+I'll send the code. It would be great!
+
+Enjoy! 

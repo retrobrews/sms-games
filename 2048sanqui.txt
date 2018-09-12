@@ -1,0 +1,11 @@
+2048 [Sanqui] 
+
+Game for Master System 
+
+This is a SMS port of the puzzle game 2048, which recently became popular. It's simple, fun, and addictive, so give it a shot!
+
+I originally started coding this for the Gameboy about a week ago, and ported it to the SMS today ;) so maybe I'm cheating a little. But that's up to you.
+
+Tested in Meka and Emukon. Let me know if there are any bugs on hardware, and if I should be using a more accurate emulator! I'll happily try to fix anything. There's not much info out there! Anyway, the source is really messy from the porting right now, so I'd like to clean it up before a release. If you're impatient, check out the Gameboy source! (The logic is mostly the same.)
+
+https://github.com/Sanqui/2048-gb 

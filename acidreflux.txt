@@ -1,0 +1,12 @@
+Acid Reflux V1.1
+Game for Master System 
+
+Here's our late entry for the coding compo: Acid Reflux
+
+Robotwo made almost all the graphics, furrtek added the bugs.
+
+Still buggy at high speed, lacks a decent player sprite and falling objects. There will probably be one or two more updates to get things right. As usual, I thought I had enough time :)
+
+Contains procedural music, varying from very annoying to surprisingly melodic.
+
+The source is available here: https://github.com/furrtek/AcidRefluxSMS 

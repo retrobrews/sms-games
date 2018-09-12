@@ -1,0 +1,13 @@
+ARTILLERY MASTER 8k v0.9
+by Haroldo O. Pinheiro
+haroldoop@gmail.com
+
+(Use wordwrapping for a more confortable reading)
+
+This is a Scorched Earth clone for the Sega Master System, developed for the 2006 minigame competition.
+Aim by moving the directional button Left or Right.
+Increase/Decrease the power by moving the directional Up or Down
+Press any button to fire the bullet.
+The players take turns firing at each other (but both use joystick 1). 
+Every time you hit your adversary, one point is added to your score. 
+Watch out: if you hit yourself with your own shot, you lose a point.

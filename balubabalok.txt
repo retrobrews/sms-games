@@ -1,0 +1,13 @@
+Baluba Balok 
+Game for Master System 
+eruiz00
+29 Jan 2017
+
+
+LAst weeks I have been working on a little game for the LD retro compo.
+I had to choose between all retro systems and this page, the forums and related links got me caught on SMS and SDCC.
+
+So this is my little contribution to the scene . Hope you enjoy! 
+
+Baluba Balok is a cool platform Pac-Man style game for Master System.
+http://www.smspower.org/forums/16511-BalubaBalokALittleRemake

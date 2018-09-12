@@ -1,0 +1,144 @@
+ASTROSWAB
+Description:
+One day it just happened: Giant, flaming rocks swirling through the atmosphere and crushing everything in their path! 
+There is talk of an alien invasion - people claim to have seen flying saucers and hi-tech guided missiles. 
+Who can we depend on to swab the sky clean of danger? You guessed it... Swabby is back!
+
+The objective of the game is to score as many points as possible. You guide Swabby the snail through different 
+areas of increasing difficulty, while shooting down asteroids, missiles and even the occasional UFO. 
+Be sure to grab the juice, cakes and other bakery goodies – they will boost your score and make Swabby shoot even faster. 
+Don’t let the flaming asteroids (the so-called spinners) reach the ground!
+
+Please refer to the included instructions sheet for full details on scoring, controls and helpful hints.
+
+Controls:
+Move Swabby left or right with the d-pad. Press button 1 to fire. Pause and reset the game with the corresponding buttons on the console.
+
+On the high score list, browse through the letters with the d-pad, type a letter with button 1 and backspace with button 2.
+
+Highlights:
+*) Random scene selection creating up to 54 unique playthrough experiences.
+*) 100% homebrewn assembler code, graphics and sound.
+*) Battery-backed, 10 position high score table with initials input.
+*) Swabby is back - this time with quick, upgradeable shooting abilities.
+
+The following modifiers apply :)
+Cover art included = + 20% awesomeness!
+Source code included = + 256% awesomeness!
+
+Astroswab is an unlicensed Sega Master System homebrew created for the SMS-Power coding competition in 2018. 
+It is based on the Astroblast game for the Atari 2600, fused together with homebrew hero Swabby the Snail.
+
+Credits:
+Anders - Concept, code, music, graphics
+Lasse - Graphics, playtesting
+
+Greetings:
+Maxim - BMP2Tile tool
+sverx - PSGLib sound library and vgm2psg tool
+Calindro - Emulicious emulator
+Bock - Meka emulator
+Kagesan - Screen fading routines
+SMS-Power - Community, resources and support
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________
+
+ASTROSWAB
+Blast Asteroids, Eat Cakes – and Save the Day!
+The objective of the game is to score as many points as possible.
+You guide Swabby the snail through different areas of increasing
+difficulty, while shooting down asteroids, missiles and even the
+occasional UFO. Be sure to grab the juice, cakes and other bakery
+goodies – they will boost your score and make Swabby shoot even
+faster. Don’t let the flaming asteroids (the so-called
+spinners) reach the ground!
+Scoring overview:
+You have got two different score meters: 1) Your score can
+go up or down during the game, depending on the events
+described in the table below; 2) your peak score can only go
+up, and it is the basis for your progression and possible position
+on the high score table.
+Object Destroyed Hits ground Hits Swabby
+Asteroid 100 - 50 - 100
+Shard 200 - 100 - 100
+Spinner 400 - 100* - 200
+Booster - 500 0 1.000**
+Missile 800 0 - 200
+UFO 1.000 - -
+* You lose one life.
+** Swabby’s firing rate improves.
+Progression overview:
+As your peak score increases, the difficulty ramps up and you
+travel through different scenes. The scenes are selected randomly
+within each difficulty, creating 54 unique playthrough
+experiences. The game ends at 90.000 points.
+Difficulty Peak Score Range Scenes
+1 0 – 4.999 - Mushroom Valley
+- Beach
+- Countryside
+2 5.000- 14.999 - Desert
+- Mountains
+- Cloudy day
+3 15.000- 34.999 - Night
+- Old tree
+- Field
+4 35.000 – 59.999 - Graveyard 1
+- Graveyard 2
+5 60.000 – 90.000 - The Moon
+High score system:
+The high score table has 10 positions. When you run out of lives,
+your peak score is compared to the entries in the high score
+table. Enter characters with Button 1 and backspace with Button 2.
+
+
+Battery-backed RAM saves the scores between gaming sessions. If
+you ever want to wipe the high score table and start over, do the
+following: At the title screen, press UP + Button 1 + Button 2.
+You will be taken to a confirmation screen where you can press
+DOWN + Button 1 + Button 2 to clear the high score table and reset
+Astroswab to the default settings.
+HELPFUL HINTS:
+Most asteroids explode into two shards. Time your shot carefully
+so that you can mop up at least one of the shards before it hits
+the ground.
+Don’t just shoot wildly up in the sky. You risk accidentally
+hitting one of the bakery goods, which will cost you 500 points
+and a missed chance for powering up Swabby’s gun.
+The homing missile is fast. While it is possible to shoot it, it
+is often better to outrun it.
+You can’t possibly blast all the incoming asteroids and shards.
+When you are out of position, it is better to stay safe at the
+cost of a few points.
+Destroy the UFO and the spinner as soon as they appear on the
+screen. The UFO will quickly fill the screen with bullets that
+Swabby cannot destroy, and the spinner will eventually touch the
+ground causing you to lose a life.
+Astroswab (c) 2018, Hang-On Entertainment
+Astroswab is an unlicensed Sega Master System homebrew created for
+the SMS-Power coding competition in 2018. It is based on the
+Astroblast game for the Atari 2600, fused together with homebrew
+hero Swabby the Snail.
+Astroswab gameplay and musical assets are created for PAL
+(50 Hz) systems. The game can fully run on NTSC (60 Hz)
+systems, but a PAL setup is recommended for the best
+gameplay experience. The game will display a warning
+the first time it is booted, if it is on an NTSC
+system.
+Credits:
+Anders - Concept, code, music, graphics
+Lasse - Graphics, playtesting
+Greetings:
+Maxim - BMP2Tile tool
+sverx - PSGLib sound library and vgm2psg tool
+Calindro - Emulicious emulator
+Bock - Meka emulator
+Kagesan - Screen fading routines
+SMS-Power - Community, resources and support
+
+Astroswab is tested on real hardware (PAL SMS) and selected
+emulators (Emulicious, Meka and Kega Fusion).
+All Astroswab resources, including the rom, source code, assets,
+full size cover art and these instructions, are freely available
+from the homebrew section of smspower.org.
