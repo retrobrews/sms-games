@@ -1,0 +1,49 @@
+SokoMaster v1.0 by Haroldo de Oliveira Pinheiro
+haroldoop@gmail.com
+
+.Instructions:
+
+When you load the ROM, you'll presented with a title screen. Press fire to start.
+
+You'll then be presented to a menu screen where you can choose the level pack you wish to play. 
+Press up or down to select a level pack. At the bottom of the screen, you'll see informations 
+about the number of levels available for the current level pack, and who made it. 
+Press fire to confirm your choice.
+
+Once you select a level pack, you'll be presented with another screen where you can choose the 
+level you wish to play. The top two rows of icons represent the levels you can choose (the 
+game can display 8 at a time). The last row of icons contains allows you to navigate through 
+the available level. On that row, the left arrow icon displays the previous 8 levels, the right 
+arrow displays the next 8 levels, and the "SKIN" icon allows you to select a skin.
+
+The skin selection screen, accessed through the "SKIN" icon at the level selection screen, 
+allows you to choose a skin for the game. There are 6 available skins. Left/right choose 
+next/previous skin. Fire confirms the selection. Once a skin is chosen, the game returns to 
+the level selection screen.
+
+After selecting a level, is when the game itself starts. The objective is to move the boxes 
+to their designated places by pushing them. Use the directional to move the main character, 
+and use it to push the boxes around. Once all the boxes are in their correct places, 
+the game altomatically loads the next level.
+
+.Credits:
+
+All code and graphics by 
+
+	Haroldo de Oliveira Pinheiro
+	haroldoop@gmail.com
+	http://haroldoop.fortunecity.com/
+
+Level packs by:
+
+	David W. Skinner
+	sasquatch@bentonrea.com
+	http://users.bentonrea.com/%7Esasquatch/sokoban/
+
+	François Marques
+	sokoban@online.fr
+	http://sokoban.online.fr/
+
+	Evgeniy Grigoriev
+	grigr@yandex.ru
+	http://grigr.narod.ru/

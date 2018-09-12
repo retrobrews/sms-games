@@ -1,0 +1,61 @@
+You arrive at your red-panda farm, only to find that a pack of snow 
+leopards have broken into your paddock and are going after your flock. 
+
+You must build fences to protect your livestock before they get gobbled up: 
+
+-> 10 points for the first wah in a fenced-off area 
+
+-> 20 points for additional wah, as a breeding-bonus 
+
+To build a fence simply press button number one while attempting to move 
+into a paddock. 
+
+Once you've separated the species, you'll move on to the next field, 
+with even more leopards. You'll need to save at least one red panda per 
+round to progress. 
+
+
+Some technical details: 
+
+-> This game generates a bitmap using a two-bit palette. The tiles are 
+repeated for the top and bottom halves of the screen, one half using the 
+background palette, and the other half using the sprite palette. This 
+allows arbitrary pixels to be drawn to, at the cost of limiting the 
+number of on-screen colours. 
+
+-> Three of the possible four colours are selected for the bitmap, which 
+leaves seven spaces in the sprite-palette for unique colours in sprites. 
+
+-> The game is developed in C with devkitSMS and sdcc (such a buggy 
+compiler!) 
+
+
+Known bugs and incomplete features: 
+
+-> Animals hitting an incomplete fence should cause some kind of 
+penalty, but this is not yet implemented. 
+
+-> Connecting your incomplete fence to itself should cause some kind of 
+penalty, but this is not yet implemented. This can currently trigger 
+buggy area-filling behaviour. 
+
+-> When shading a solved area, sometimes a line may be missed 
+
+-> As more animals and fences are added to the screen, things can slow 
+down quite a bit 
+
+-> When an area is filled, the fill will cover up part of the fence at 
+the bottom 
+
+-> No sound yet 
+
+
+Changes in R2:
+
+  * Dead wah are no-longer counted when deciding to fill-in a paddock or not
+
+  * The text "GAME OVER" will blink above your score when the game ends
+
+  * When filling a paddock, every line is filled rather than only every
+second line. (I've improved the line-filling speed, so was able to
+remove the every-second-line hack)

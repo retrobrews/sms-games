@@ -1,0 +1,53 @@
+Weka Invaders
+A game for the SEGA Master System
+(C)2017 by Disjointed Studio
+Web: http://disjointedstudio.blogspot.it
+Twitter: @disjointedstd
+Youtube: https://www.youtube.com/channel/UCgyDCH8uCLwADwZwH68RvoA
+=================================================================
+
+Story
+-----
+
+It's been a while since the nefarious Weka aliens tried to conquer the Earth. Thankfully, Waimanu neutralized their clumsy attack and forced them to flee. 
+
+Now, however, Wekas are back to resume their unfinished work and this time they've developed a new technology that allows them to materialize stealthily inside unsuspected concrete blocks and teleport magnetically among them, before proceeding to the actual invasion. 
+
+Obviously, they have underestimated our roundish hero! Waimanu, in fact, doesn't fall into the interplanetary trap hatched by the evil Wekas and, armed with his new Dynamic Fluid CannonDynamic Fluid Cannon(TM), is more than ever determined to fight the treacherous (and gelatinous) space invaders.
+
+He will have to chase them through numerous scenarios, driving them out of the blocks and eliminating them once they come out into the open with the help of amazing new weapons that he will collect during his adventure. 
+
+Will he be able to prevent the fearsome (and quite ridiculous) Wekas from conquering the planet?
+
+How to play
+-----------
+
+Each one of Weka Invaders' 40 levels consists of a certain number of blocks which hide several Wekas that will eventually emerge and chase Waimanu, and even shoot at him sometimes.
+
+Waimanu should drive each Weka out of the blocks and eliminate them before the time runs out. Wekas can be eliminated by either shooting at them or by shaking them off the floor.
+
+Points are awarded for each block destroyed and for each eliminated Weka. Also, points are given for destroying the passing UFO, for powerup pickups and for each second left after completing the level. An additional life is awarded when 25,000 points are reached and you can earn one more life every additional 50,000 points after that.
+
+Controls:
+Use LEFT and RIGHT keys to move Waimanu. Use (1) to shoot and (2) to shake the floor, if shakes are available.
+
+Bonus:
+Blocks can hide powerups too, and they're of different kinds:
+- Speed up: pick it up to move faster.
+- Double shot: pick it up to shoot twice.
+- Triple shot: pick it up to shoot three times.
+- Laser: pick it up and your weapon will emit a continuous laser beam that can destroy everything
+  (all these powerups last only some seconds.)
+- Bonus Shake: pick it up to have one more shake available (maximum: 9)
+
+Beside that, blocks can hide some dangers:
+- Speed down: Waimanu will move very slowly.
+- Falling block: An indestructible block will fall on the floor and could kill Waimanu if it falls on him. It will stay on the floor for a few seconds, making the way impassable to both Waimanu and the Wekas. It can be shaken off, if needed.
+
+BOSS levels:
+The 10th, 20th, 30th and 40th levels are BOSS levels. In these levels, beside the normal task of eliminating the Wekas, you should pay attention to the passing UFO that will often shoot at you.
+
+Strategy tips:
+- Blocks that might be going to hatch a Weka soon will quickly flash a few times, thus it might be good to concentrate on those first.
+- Shakes are an important asset, so they should be used wisely and you should always try to pick up any bonus shake that it's available. Also using shakes triggers the flashing of blocks which, in turns, makes Wekas appear faster.
+- When shakes are over, you've still got a few chances to save yourself from Wekas already on the floor by performing the 'desperation trick' move: by holding the DOWN key pressed and repeatedly pressing the shake button 10 times you can trigger a 'free' shake. It works up to three times.

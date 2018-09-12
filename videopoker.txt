@@ -1,0 +1,33 @@
+Video Poker
+Game for Master System 
+
+0.8	19 Aug 2011	Sket
+
+Use [Up]/[Down] to adjust the amount to bet (1 - 5) - note the payout table will change accordingly.
+
+Press [1] to place bet and show your cards.
+
+An arrow is placed above the currently selected card.
+
+Use [Left]/[Right] to select a card [2] to toggle "HOLD" on and off.
+
+Once you have decided which card(s) you would like to hold - press [1] to continue and you will be dealt replacement card(s) for each one you did not hold.
+
+If you are a winner [Left] is shown to the right of your prize in the table.
+
+Press Button [1] to deal a new hand.
+
+
+
+Planned Todo list
+
+    Replace "X" over current selected card to something nice <--- Done in v0.4
+    Replace "0 - 9" with meaningful text prompts <--- Done in v0.4
+    Implement Game over routines if Bank or Games reaches 0 <--- Done in v0.5
+    General Graphics overhaul - god forbid the cards "JQK" /cry - I suck a drawing. <--- Done in v0.6
+    Animated dealing of cards from deck to the hand. <--- Done in v0.5
+    Sound FX :o
+    Nice splash screen instead of the boring text. < Done in v0.8
+    Splash screen music - heeeeeeelp - lol
+    Games mode(s) likely based on 25 / 50 / 75 games - or something like that.
+    High score table(s) for each mode with name entry and save to cart backup ram. <--- Done in v0.7 (Single high score only for now) 

@@ -1,0 +1,86 @@
+Sword Strike for the Master System
+VAC MMXVI
+http://64kbgames.webs.com/
+
+----------------------------
+Contents:
+
+1. Story
+2. Controls
+3. Scoring
+4. Goal
+
+
+----------------------------
+1. Story
+
+You are a knight and your lord has sent you on a daring midnight
+raid. A passage has been found into the enemy's castle. Now you
+must prepare for close quarters combat! Draw your sword. Defeat 
+all the enemy knights and soldiers and you watch their castle 
+burn at night. Fail, and your corpse will be left where it fell.
+It only takes one blow to win or die, so be careful!  
+
+
+----------------------------
+2. Controls
+
+Starting the game:
+Select one of three options -
+1) one sword, XX fights to win.
+2) one sword, C fights to win.
+3) two swords, C fights to win.
+
+To block:
+Move the D-pad right or left.
+When all the way left, the sword is blocking all blows from the left.
+When all the way right, the sword is blocking all blows from the right.
+Keep the sword in that position to block.
+
+To strike.
+Press 1 to strike from right to left.
+Press 2 to strike from left to right.
+
+If you selected two swords, controller 1 controls sword 1,
+and controller 2 controls sword 2.
+
+Striking:
+If you swing and only hear the sound of metal against metal, the enemy
+blocked your strike. Wait for the enemy to let his guard down.
+This is usually after a strike. But some enemies never have their 
+guard up. The window of attack may be small, so act quickly!
+
+The only foe who can not be defeated in one hit is the gold knight.
+If it makes it to one side, it can strike a blow that can not be blocked.
+But your strikes can make it change direction. Keep it in the middle,
+and keep striking until it falls over!
+
+Blocking:
+The enemy will move to the side he intends to strike from.
+The background will flash red a half-second before the enemy is about to strike.
+Block on the correct side before then.
+Stay in the block position and do not swing until the enemy sword leaves the screen.
+To not block a blow means instant death!
+
+
+----------------------------
+3. Scoring
+
+You reach the game over screen after completing a number of fights (20 or 100)
+or after an enemy strikes you. 
+
+SWINGS - the number of sword swings made. If you are skilled,this number will be low.
+BLOCKS - the number of blocks made. If you are skilled, this number will be low.
+VICTORIES - the number of foes defeated. If you are skilled, this number will be high.
+TIME - the amount of time it took to get this far. If you are skilled, this number will be low.
+
+
+----------------------------
+4. Goal
+
+Watch the enemy's castle burn under a full moon!
+
+XX - defeat 20 foes to win.
+C - defeat 100 foes to win.
+
+

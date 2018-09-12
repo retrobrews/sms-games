@@ -1,0 +1,31 @@
+Waimanu
+Game for Master System 
+
+1.0	28 Oct 2015	Disjointed Studio (The Dig, sverx, Genecyst, Mu Ho)
+
+
+Our planet is threatened by Wekas, red and evil alien jellies who invade Earth with the intention of colonizing it and subduing all forms of life. 
+Despite being only a little blue penguin, our hero the daring Waimanu will face the invader to defend the freedom of our planet.
+
+Here's the official announcement post on our blog (includes video footage)
+
+How to play [short explanation]
+Waimanu should squash the Wekas pushing blocks against them.
+Walls will vibrate if hit and will stun leaning Wekas making them vulnerable.
+Lots of points are awarded for lining up the three special blocks in every level.
+
+- Direction pad to move our hero around
+- 1/START to push/break blocks and to hit walls
+- 2 to use a special feature (available if you picked up a bonus... read the full "How to play" for more details)
+- PAUSE to pause/unpause the game. Let your fingers rest when needed :)
+
+Complete how to play instructions.
+
+4 different areas with their own tune and effects and 8 different levels per area are provided for your enjoyment.
+
+Download at: http://disjointedstudio.blogspot.com
+
+The game has been tested mainly on Emulicious and MEKA emulators and on my PAL SMS II (at both 50/60Hz) using a Master EverDrive. 
+Should run correctly also on an original SMS and on a Genesis/MegaDrive.
+
+We hope that you enjoy the game. If you spot bugs or hardware glitches, please let us know. Thank you! :) 

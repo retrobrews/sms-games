@@ -1,0 +1,37 @@
+Versus
+Game for Master System 
+1.02	18 Apr 2015	hang-on
+
+Now there is almost less than eleven months to next year's compo! This calls for celebration: I hereby present Versus!
+Introduction
+
+Versus is a Pong clone for the Sega Master System. It is designed to run on an NTSC system (60 hz). 
+It is pretty straight forward to navigate and play. The players take up the roles of Nya and Ken, 
+two Pong-playing, competing siblings. The first player to score 9 points wins the match. That's it! 
+Even though Pong is best played against a real human, this game can also cater to an intense 
+one-player Pong showdown, thanks to the built-in, always Pong-ready AI.
+
+Depending on where it hits the paddle, the ball is deflected either upwards or downwards. 
+Every time the ball is deflected by a paddle, its speed increases for a still longer time period. 
+After a little while, the ball swirls fast between the two players. Every time the ball is served 
+from the center line, its speed is reset.
+
+Versus is built with tools and knowledge from the SMS-Power! community. Thanks to Maxim (BMP2Tile), 
+Bock (Meka), Calindro (Emulicious), and sverx (PSGLib and vgm2psg)!
+
+At the time of writing, the SMS-Power 18th anniversary compo is finishing, and it has been very 
+inspiring to be a part of it. Greetings to my fellow contestants!
+
+The title screen smash hit was composed on Delek's Deflemask tracker, with arpeggio inspiration 
+from jrlepage, and drum/bass inspiration from TmEE's compo entry this year.
+
+The visual style of the in-game assets is inspired by the Pong tutorial at Rembound.
+
+A Pong-clone is not breaking new ground on the SMS homebrew scene. Greetings to homsar47 and 
+haroldoop who have also experimented with this classic game.
+
+Please refer to the readme included in the source package for some details on the coding approach.
+
+Tip: If you think the AI is a little too tough, you can activate the secret easy mode by holding 
+down left on player 1's joystick, while you select "play" from the pre-match menu. 
+For the rest of the match, the AI will be a little slower. 
