@@ -1,0 +1,12 @@
+Lost Raider
+Game for Master System 
+1.01	4 Apr 2012	vingazole; ichigobankai
+
+Description
+
+Hi ! This is our entry for the 2012 SMS Power Coding Competition, it's called "Lost Raider" and because of the lack of time it's unfinished (of course !). 
+There is no music nor any sound effect which is nice : you'll be able to play it and to listen to the music competition entries at the same time^^
+
+ichigobankai made the level design and the graphisms/animation, I (vingazole) wrote the code. The game being unfinished, your only goal is to survive 
+and to make a big score ;)
+I think the controls are obvious : press button 1 to punch/kick, button 2 to jump. 

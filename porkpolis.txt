@@ -1,0 +1,41 @@
+Porkpolis
+For the SEGA Master System
+
+Version: 1.0
+Date   : 2/15/2014
+Author : V. Crisafulli (VAC)
+
+
+Contents
+1. Story
+2. Controls
+3. Game Over
+
+------------------------------------------------
+1. Story
+
+Porkpolis - the city of flying pigs. Long ago, the flying pigs built large greenhouses to grow leafy greens year round. The pigs are well fed, but they create more waste than the land can handle. The greenhouses are put on gigantic floating platforms which float above a literal sea of... waste. The land below can not support life. But the pigs just keep eating and don't seem to care.
+
+Urchin is a flying pig from this city. Urchin wants to be an explorer. So one day he up and flew into the distance. He saw many interesting lands, but suddenly strange creatures and flying dinnerware came at him. He quickly realized they were trying to eat him! Urchin is flying home - and you can help! Use your light phaser (or control pad) to shoot down foes while Urchin flies home. Protect your pork!
+
+------------------------------------------------
+2. Controls
+
+This game uses either the light phaser or control pad 1.
+
+Light Phaser - Aim the light phaser at a foe. Pull the trigger. If you hit the foe, the foe turns into a number. Your score increases by that number. If you miss, heep trying!
+
+Control Pad 1 - Use the D-Pad to move the cursor. When the cursor is ontop of a foe, press 1 to shoot! If you hit the foe, the foe turns into a number. Your score increases by that number. If you miss, heep trying!
+
+Level 1 - Foes are worth 1 point
+Level 2 - Foes are worth 1 point
+Level 3 - Foes are worth 10 points
+Level 4 - Foes are worth 100 points! 
+
+------------------------------------------------
+3. Game Over
+
+To the right of the score is a single digit number. This is Urchin's health. It goes down by 1 each time he is hit. If it goes down to 0, the game is over. The health is restored at the begining of each level. The timer is to the right of the health. When it reaches 0, the next level starts.
+
+ 
+

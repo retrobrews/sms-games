@@ -1,0 +1,70 @@
+Moggy Master
+Game for Master System 
+ 1.00	29 Oct 2015	na_th_an, anjuel, Davidian
+ 
+Moggy Master
+
+Concepto y programa
+    na_th_an. 
+Gráficos
+    na_th_an y anjuel 
+Música
+    Davidian. 
+
+Uses DevkitSMS by sverx
+
+Dedicado a / Dedicated to: kusfo y Mariano Alameda.
+Historia / Story
+
+En el Bosque de los Canutos, más allá del pico nevado de Jhijhamabad, al Norte del País de Noronstronski, los bolotes de la aldea de Mu, cerca de Kónrad, celebraban una gran fiesta. La música sonaba alegre entre los árboles, los olores de los ponches y el gran banquete impregnaban el ambiente, más profundos y sabrosos a medida que iba avanzando la noche.
+
+Entre el jolgorio, el malvado hechicero Hibön, codicioso Tetrarca de Boro, Goro, Sé y Pa, estaba a punto de llevar a cabo su maléfico plan: Con el fin de alcanzar más poder mágico, pretendía usar la energía vital de los bolotes, rica en rayos, centellas y ectoplasmas. Había escogido la mejor ocasión: los bolotes, embriagados y sumisos, con ganas de fiesta, no ofrecerían la menor resistencia. Cual flautista de Hamelín, los engatusaría para “seguir la fiesta en otra parte”, y eso fue precísamente lo que hizo. Formando una enorme caravana, los bolotes abandonaron sumisamente el Bosque de los Canutos en dirección a los dominios de Hibön.
+
+Moggy, el alma de las fiestas, no las había tenido todas consigo aquella noche. Algo apartado del jolgorio, dormía una mona que había cogido demasiado pronto. Los elixires de Hadas y Espíritus le bailaban en la tripa, y todavía le quemaba en los labios el humo de todas las hierbas de la cañada que había fumado cuando despertó desorientado, quizá desvelado por el atronador silencio que se había apoderado del valle.
+
+Tambaleándose, y sin mucho dominio sobre sus movimientos, comprobó horrorizado que, en la lejanía, demasiado lejos ya, una encorvada figura guiaba a toda la población de Mu hacia un oscuro horizonte. Intentando enfocar con sus ojos enrojecidos, pronto reconoció a Hibön. No podía significar nada bueno, así que, como pudo, emprendió la marcha para rescatar a sus compañeros.
+
+In the Forest of Canutos, past the snowy peak of Jhijhamabad, located in the Northern Noronstronski, the bolotes from the village of Mu, near Kónrad, were celebrating a big party. The joyful music sounded among the trees, the flavour of the winery and the big feast impregned the ambience, thicker and more tasteful as the night went by.
+
+Lost among the craze, the evil Hibön the sorcerer, the greedy tetrarch from Boro, Goro, Sé and Pa, was about to execute his harmful plot: To achieve a higher magic power, he pretended to use bolote’s vital energy, heavy on rays, lightnings and ectoplasms. He had chosen the best chance: the bolotes, drunk and docile, feeling like never giving up partying, won’t resist at all. Like the legendary Hamelin flute player, he would mislead them to “keep partying elsewhere”, and that was exactly what he did. Forming a huge caravan, the bolotes submissively left the Canutos forest heading to Hibön’s realms.
+
+Moggy, the key figure of all parties, didn’t have a good one that night. Somewhat away from the binge, he was sleeping it off way too soon. The mouthwashes from the Fairies and spiritis were making a mess in his stomach, and his mouth still burned for smoking of all those herbs from around the river, when he got up feeling lost, maybe awaken by the deafening silence which had spread across the whole valey.
+
+Stumbling, and without a complete control upon his moves, he discovered in awe that, in the far, really too much far away, a stooped shape guided the whole population of Mu to a dark horizon. Trying to focus with his reddened eyes, he soon recognized the figure as Hibön. That couldn’t be anything good, so, the best he could, he began a dangerous trip to rescue his friends.
+Manejo / How To Play
+
+Tu objetivo en cada pantalla es recoger a todos los amigos que hay dispersos por el terreno, evitando tocar al rano o a los arbustos venenosos.
+
+Hemos añadido la posibilidad de 2 players. Para ello nos hemos inventado a WAW, que es una amiga de Moggy que se encarga de hacer la música de los juegos de Megadrive que fabrican en el bosque de los canutos.
+
+Moggy y WAW cada día iban a la parte chunga del bosque a pasear y rescatar algunos amigos rosas y se encontraban un tico tico de sandía. Sólo uno. Había que ir a muerte. Quien rescatase más amigos rosas le hincaría el diente a tal manjar.
+
+Your goal in each screen is getting each one of your pink friends, avoiding touching the green bushes.
+
+We have added the possibility of 2 players. For this we have invented WAW, who is a friend of Moggy in charge of making music Megadrive games that manufacture in the forest of canutos.
+
+Moggy and WAW each day went to the dodgy part of the forest for walks and rescue some friends and find a Watermelon’s Tico Tico. Only one. It’s a death match. The player who rescue more friends , will be the player who wins the competition.
+
+Usa los mandos de la Master para controlar a Moggy o a WAW. Sin embargo no es tan facil como parece: el estado de embriaguez de los dos les hace responder de forma extraña a los controles. Si corren a toda velocidad hacia la derecha y queremos que vaya hacia abajo, la aceleración en esta dirección será gradual, con lo que el movimiento describirá una curva. Si queremos frenar, habrá que pulsar la dirección contraria para que la velocidad disminuya poco a poco.
+
+You can use the Master System Control Pads to control each other. But beware, it ain’t as easy as it looks: the state in which Moggy is at (i.e. he’s drunk!) makes him response in an odd way to your commands. If he is running right at top speed and we press “DOWN”, the acceleration in this direction will be gradual, and the trajectory will descrive a curve. If we want to deccelerate, we have to press the opposite direction so the speed decreases little by little.
+Instrucciones de caraga / Loading Instructions
+
+Mete el cartucho en la Master y DALE FRAN! Si no tienes Master System, pon el juego en tu emulador favorito.
+
+Put the cartridge into your Master System and DALE FRAN! If you haven’t a Master System console, put the game in your favorite emulator.
+FX Con un par
+
+Con un par de players, claro.
+FX Probatinas
+
+Ya sabéis que nos gusta hacer pruebas sin gaseosa y que siempre hacemos un juego para ver el resultado. Pues este que tenéis aquí es la prueba de que sabemos tocar la devkitSMS!
+FX Duda
+
+Todos se lo preguntan. La respuesta es sí: en la parte de atrás, moggy tiene ano.
+FX Revelación
+
+“Inventé Moggy durante la sesión de pruebas del compás Staedtler que me regalaron cuando empecé sexto”. na_th_an, creador de Moggy.
+Portada / Cover
+
+Hemos hecho un montaje la mar de apañado simulando una portada de la Master System. 

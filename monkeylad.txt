@@ -1,0 +1,74 @@
+# Monkey Lad v0.3
+
+Our entry into the 2016 SMS Power coding competition.
+
+A platformer game engine for the SMS. Run around and stomp on the monsters.
+It is best played on an NTSC SMS but will work on a PAL system.
+
+I'm also releasing the code this time which is a little scary. Any feedback is greatly appreciated.
+
+
+Eric
+
+
+## Controls
+
+- Button 1       :-  Jump
+- Left <-> Right :-  Move the player
+
+
+## Credits
+
+- Code + gameplay: Eric Fry (efry)
+- Gfx + concept:   surt
+- Music:           Niloct
+
+
+## Source
+<https://bitbucket.org/yuv422/monkey_lad>
+
+The source (except PSGLib) is licensed under a Creative Commons Attribution Non-commercial license.
+
+
+## TODO
+
+A bit more work is required to turn this into a proper game.
+In no particular order.
+
+- Thoughtful level design
+- More monsters
+- Scoring
+- Stage bosses
+- A story
+- PAL timings
+
+
+## Software Used
+
+- WLA-DX -- http://www.villehelin.com/wla.html
+- Z80 Editor -- https://github.com/yuv422/z80editor
+- png2tile -- https://github.com/yuv422/png2tile
+- PSGLib -- https://github.com/sverx/PSGlib
+- Grafx2 -- http://pulkomandy.tk/projects/GrafX2
+- Gimp -- http://www.gimp.org/
+- LOVE -- https://love2d.org/
+- ZeroBrane Studio -- https://studio.zerobrane.com/
+- CLion -- https://www.jetbrains.com/clion/
+- Tiled -- http://www.mapeditor.org/
+- Bitbucket -- https://bitbucket.org/
+
+
+## Tools
+
+- Master everdrive USB (for testing)
+- EasyCap USB video capture device
+- NTSC SMS 1
+- PAL SMS 2
+
+
+## Thanks
+
+Thanks to SMS Power for providing a great place to discuss all things 8-bit SEGA.
+Thanks also to *psidum* for lots of play testing and feedback. :)
+
+(c) 2016 Eric Fry, surt, Niloct 2016-03-27

@@ -1,0 +1,120 @@
+Picross DS
+==========
+
+by Maxim
+
+on 2007/03/27
+for the SMS Power! 10th Anniversary 8-Bit Coding Competition 2007
+with later updates...
+
+with thanks to:
+
+Martin Konrad
+Chris Covell
+Nintendo
+Jupiter
+Sega
+Jakub Wilk
+
+who all contributed in some way, whether they knew it or not.
+
+
+
+History
+=======
+
+2007/04/08 Bugfixes
+           - GG stereo port writes were crashing real SMSes
+           - Clouds were afraid of the right side of the screen
+           - Level numbers like 101, 204 were missing the middle zero
+           - Various display stuff was corrupted on a real system, now it's not
+           Also added several new levels thanks to Chris Covell
+           Made the level number increment on success
+2007/03/27 First release
+2007/03/23 Started coding
+
+
+How to play
+===========
+
+http://en.wikipedia.org/wiki/Picross
+
+Picross puzzles are pictures described by "hints". Each row and column has a
+collection of numbers; for example, if it says
+
+2 2
+
+that tells you that there's 2 black pixels, then a gap, then 2 more black
+pixels. There might be some white pixels on the left or right, or there might
+not. So if the board width is 5 pixels, this tells you that it looks like:
+
+[XX XX]
+
+How about this:
+
+1 2
+
+This could fit in three ways:
+
+[X XX ]
+[X  XX]
+[ X XX]
+
+...but in all cases, the fourth pixel is black. So you can fill that in.
+
+What about this: the board already looks like this:
+
+[  X  ]
+
+and the clue is just
+
+2
+
+We can tell for sure that the first and fifth pixels will not be black, so we
+mark them with dots:
+
+[. X .]
+
+In all the above cases, the pixels that were filled in (either black, or dots)
+will become clues for the columns, and so on - until you can solve the whole
+board and see what the picture is!
+
+
+
+Controls
+========
+
+Title screen:
+L/R     Select a level
+1       Start the game
+2       Increase the level number until it gets to a puzzle you didn't complete
+        yet
+
+In-game:
+D-pad   Move the cursor
+1       Set a blank pixel to black
+        Set a black pixel to blank
+        Set a dotted pixel to blank
+2       Set a blank pixel to dotted
+        Set a dotted pixel to blank
+        Set a black pixel to blank
+Pause   Show the pause menu
+
+You can hold a button down while you are moving to "draw" the current action
+over multiple pixels.
+
+Pause menu:
+U       Select a new background music
+D       Give up the current level
+
+
+
+More levels
+===========
+
+It's hard to make new levels that have a 100% definite solution. However, the
+same tools that are useful for entering known-good levels are useable for
+making new levels and testing if they're playable. Look for the source package
+on my website for those tools.
+
+http://www.smspower.org/maxim/smssoftware/picross.html

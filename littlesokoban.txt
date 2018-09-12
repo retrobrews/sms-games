@@ -1,0 +1,27 @@
+Little Sokoban 
+
+1.00	18 Jan 2018	Jean Monos
+
+Sokoban "warehouse keeper" is a type of Puzzle game, in which the player pushes boxes or crates around in a warehouse, trying to get them to storage locations.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+- Elève Premium de Gamecodeur  : 1 an. Pseudo Monos
+
+- Langage et Framework utilisé : C avec le DevkitSMS
+
+- Code par Monos / Graphismes par Monos et écran titre de la game jam 12 de gamecodeur / Musique et sons par Monos
+
+- Utilisation de librairies et codes externes : Oui le petite code de workflow présenté par Michel Louvet que j'ai réadapté.
+
+- Temps passé : 15 jours
+
+- Comment as-tu (ou pas) abordé la contrainte du thème : J'ai fais un listing de chose à faire avant de poser le code. Présente dans le code source.
+
+- Petit postmortem (avis sur le langage/framework utilisés, difficultés, succès, choix, bilan personnel rapide, etc...) 
+Le kit de dev master system est simple à prendre en main. Sauf pour l'importation et l'encodage externe des musiques / 
+graphismes ou la il faut connaitre un peu le truc. 
+Le son FX ne semble pas fonctionner par contre du moin pour couper le son fx. J'ai du passer ça en mode musique. 
+Le SDK permet de jouer de la musique et du son à coté.
+
+Bref un gros apprentissage pour moi cette game jam !
