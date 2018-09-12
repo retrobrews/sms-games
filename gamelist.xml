@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <gameList>
    <game>
-     <path>./2048.sms</path>
+     <path>./2048grz.sms</path>
      <name>2048 [GRZ]</name>
      <desc>A puzzle game. When two tiles with the same number touch, they merge into one, the goal is to get a tile with the number 2048, then you win but you can continue and try to go to 8192 if you want. Controls: D-Pad: move the tiles; Button 1: start or restart the game; Button 2: if you win you can press it to continue to play</desc>
-     <image>./2048.png</image>
+     <image>./2048grz.png</image>
      <rating>0</rating>
      <releasedate>20141005T000000</releasedate>
      <developer>Julien Verneuil aka Grz-</developer>
@@ -1080,31 +1080,4 @@
      <genre>Zombi Terror</genre>
      <players>1</players>
    </game>
-
-
-   
-
-
-
-   <game>
-     <path>./x.sms</path>
-     <name>X</name>
-     <desc>X</desc>
-     <image>./X.png</image>
-     <rating>0</rating>
-     <releasedate>XXXX0000T000000</releasedate>
-     <developer>X</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>X</genre>
-     <players>1</players>
-   </game>
-
-
-
-
-http://www.smspower.org/Homebrew/Index?q=$:Type=Game
-
-
-
-
  </gameList>
