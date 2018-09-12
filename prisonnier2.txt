@@ -1,0 +1,36 @@
+*********************
+*** Prisonnier II ***
+*********************
+
+====================================
+Change Log
+====================================
+- 1.0 : 17 Mars 2018 
+
+
+====================================
+- Homebrew pour master system I et II. 
+- Compatible avec un Everdrive.
+- Ecrit par : Emmanuel Lorand. 
+- Programmation : Loïc Lété.
+- Graphismes, Musiques, et Son par Loïc Lété.
+- Artworks par Patrice Cervellin.
+- Utilisation du devkitSMS de Sverx.
+====================================
+- Prisonnier II jouable en Solo (non recommandé) 
+- ou 2 joueurs (Plus recommandé)
+=====================================
+- http://prisonnier-2.offgame.org/ : Site officiel
+- http://offgame.org/site/ : Offgame
+- http://comptoir-mmf.eu/index.php : Le Comptoir du clickeur
+- http://www.mastersystem-france.com/ : Master System France
+- http://www.gamopat-forum.com : Gamopat
+=======================================
+- Contacte : Skype Loïc Lété (Monos51)
+- Facebook : https://www.facebook.com/Monos51
+- E mail : monos@offgame.org
+========================================
+- Rom gratuite qui ne peux être vendu
+========================================
+Bis
+

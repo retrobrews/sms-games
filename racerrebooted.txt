@@ -1,0 +1,52 @@
+Racer - rebooted (autumn, 2015)
+
+Racer is back! I rebuilt the game based on the stuff I learned coding the first version. 
+
+RACER
+
+(c) 2015 Anders S. Jensen.
+Box cover art by Morgenty (http://morgenty.deviantart.com).
+
+A tribute to Speedway! for the Magnavox Odyssey II (Phillips Video Pac). Developed for the Sega Master System, NTSC.
+
+The Odyssey II (released 1978) is the second iteration of the original Magnavox Odyssey home video game console created by the legendary Ralph H. Baer (1922-2014) - one of the founding fathers of the video game industry. Speedway! is part of a multigame cart, and you can watch how it plays on youtube: https://www.youtube.com/watch?v=lSKkzUYfZx0
+
+Sega Master System fanatics have had the opportunity to run a chip-8 emulator on their hardware since 2002. In these days, where my PC mostly runs 8-bit Sega Master System software, the Wii in the house often runs Mame and SMSPlus, and the SMS-power forum contains news about the Saturn emulating the SG-1000, it seemed reasonable to contribute to the 2015 compo with a project for the Sega Master System that likewise reaches back in time. Thus I hereby present Racer - coming at you straight from before the dawn of the Sega Master System: Play a second generation racing game on your third generation console!
+
+Gameplay.
+You find yourself on the track - ready to go! Race full speed up the track, and avoid enemy cars as you overtake them. At first there is only one enemy, but that will change soon enough. Keep calm and stay alive for as long as you can. The game starts with a humble hiscore of 200. Break that hiscore. Die a couple of times. Feel the almost flappy bird-like gameplay frustration. Invite your friend/wife/husband/kids, and let them have a go at beating your hiscore. Put Racer on next time you throw a party. The unforgiving, fast and super simple gameplay will hopefully both motivate you... and piss you off!
+
+Controls.
+Press button one (start) to progress from the title screen, and press again to start the engine of the car. Left and right on the d-pad are for horizontal control of your car. Avoid the enemy cars, and stay alive. You get one point per frame. That is 60 points per second! After you have crashed (it WILL eventually happen), you are back to the starting point, and a shining new car is waiting for you. Now you can press button 1 to fire up the engine and try again, or you can pass the controller on to your eager friend next to you. If you want to go back to the title screen, just wait a moment, and you are taken there automatically.
+
+Tutorial.
+Do you want to learn how to build this game in 5 steps? Visit the tutorial at http://www.smspower.org/Articles/CreateARacingGame. I developed Racer with the intent of creating a tutorial that could possibly be the next step after Maxim's Hello World. Please refer to the Getting Started section on SMS-Power.
+
+Misc.
+This readme is distributed as part of a zip file that contains both the assembled game and the source code for Racer. It also contains some screenshots and cover art in A4 paper format (if you print the cover for a real box, you will have to cut away the greyed areas).
+
+Thanks to the patient playtesters. Can you beat their hard earned hiscores?
+
+Name            Age        Hiscore    Quote
+-------------   ---------  -----------------------------------
+Lasse           6          1917       Hmmm, this game needs
+				      more Skylanders!
+
+Luna            13         390        What are those things 
+				      - are they cars?!?
+
+Pia             n.a.       401        Good job, hon. But will
+				      it make us rich?  
+--------------------------------------------------------------
+
+Racer is tested on real hardware (through an Everdrive sitting in a 60 hz modded SMS II) and on emulators (Meka and Emulicious).
+
+Known bugs: On real hardware pressing pause kills the player instantly!
+
+
+Versions:
+1.0     First release - straight into the SMS-Power 2015 compo.
+1.1     Improved(?) title screen tune.
+1.11    Bugfix: Pause button no longer kills the player.
+        Adjust death delay for quicker respawn.
+	Adjust 'back to tile screen' delay.

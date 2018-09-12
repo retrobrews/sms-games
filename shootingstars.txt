@@ -1,0 +1,43 @@
+GAME: Shooting Stars 
+FILE: lightp.sms
+VERSION: 1.00
+AUTHOR: V. Crisafulli 
+DATE: 3/9/2013
+
+Compatible with light phaser or control pad 1.
+
+The Story:
+Night time. It's when you should be sleeping. But aliens zoom by in their flying saucers, using the sky as their freeway. 
+And mischevious little stars float outside your window, keeping you awake with their radiant light. 
+Well, you've had enough. So you pull out your light phaser to shoot down some stars and aliens to get some peace and quiet! 
+
+
+Controls:
+This game can be played with the light phaser or controller 1. With the light phaser, point the phaser at the screen and pull the trigger. 
+A target scope appears indicating the area on the screen that you shot. When you pull the trigger and the target scope colides with a foe, 
+the for falls from the sky and you gain a point. 
+
+The game can also be played with the controller. Use the directional pad to move the target scope up, down, left or right. 
+Press button 1 to shoot. If the target scope is on a foe when you press 1, then the target is hit. It falls from the sky an you gain a point.
+
+Light phaser controls:
+   LIGHT PHASER TRIGGER: Shoot at a foe!
+
+Control Pad Controls:
+   UP: Move target scope up.
+   DOWN: Move target scope down.
+   RIGHT: Move target scope right.
+   LEFT: Move target scope left.
+   Button 1: Shoot at a foe! 
+
+
+The Game:
+The top of the screen contains 4 pieces of data.
+SCORE: This is the number of stars and aliens you have shot down.
+GOAL: To progress to the next round, your SCORE must exceed the GOAL when time runs out.
+TIME: How many seconds remain in the round. When the seconds goes to 0, the round is over.
+ROUND: This indicates how many 30 second rounds you have survived.
+
+Try your best to get the high score!
+
+ 

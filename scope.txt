@@ -1,0 +1,13 @@
+Scope
+Game for Master System 
+
+1.00	21 Aug 2016	dragonfeet
+
+Hey, I wrote another game. It's called Scope. It uses the light phaser and it's a test of reflexes.
+
+There is a cursor where the light phaser points. Only the bar around the target is illuminated. Find the color red and shoot it within 3 seconds. 
+Miss once or let time expire, and you go back to the title screen. Complete all 20 rounds and your score is compared against a table that determines 
+your average reaction time. You can use the d-pad instead of the light phaser, but it's much harder to get a good score.
+
+I have not tested this on a cartridge, but it uses much of the same code I used in Porkpolis and Shooting Stars, so it should work. I really need to 
+get off my butt and shell out the money for an everdrive :) You can download it at http://64kbgames.webs.com

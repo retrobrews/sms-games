@@ -1,0 +1,72 @@
+
+Ski Master v1.0.1
+-----------------
+
+Our entry into the sms power 2015 coding competition.
+
+A simple downhill skiing game for the Sega Master System. I always
+loved this kind of game as a kid. I thought it would be well suited
+for a Master System game.
+
+Eric
+
+
+Controls:
+---------
+
+Button 1       :-  Jump
+Left <-> Right :-  Steering
+Down           :-  Accelerate down the hill
+
+The aim of the game is to get to the bottom in one piece and to pass through
+as many gates as possible.
+ 
+Changelog:
+----------
+
+1.0 - Initial version
+1.0.1 - Changed level music, fixed jumping while accelerating
+
+Credits:
+--------
+
+Code + gfx: Eric Fry (efry)
+Gfx:        Edwin Diaz
+Music:      Niloct
+
+Software used:
+--------------
+Grafx2
+Gimp
+Bmp2tile
+Mod2PSG
+PSGlib for ingame music/sfx
+WLA-DX
+Eclipse
+Love2d (for the prototype version)
+
+Tools:
+------
+Master everdrive USB (for testing on my master system 1)
+
+
+Todo:
+-----
+
+Where do I start.
+
+A points system
+highscores
+more levels.
+collectible objects on the map.
+Better controls for the skier
+More gfx
+
+
+Thanks to www.smspower.org for providing a great resource to the sega 8bit
+community. Thanks also to Martin and sverx for their audio tools/code.
+
+I may release the source at some point.
+
+
+(c) 2015 Eric Fry et al 2015-03-27

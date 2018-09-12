@@ -1,0 +1,23 @@
+Silver Valley
+Game for Master System 
+
+1.00	31 Dec 2017	eruiz00
+
+Well.. i wanted to finish it today (tomorrow i travel for a week) but i had no time (only graphic updates, as i have 
+only 200 bytes for code with z88dk with opt-code-size and 1kb free on banks) so, at least, i publish first images of next game: Silver Valley.
+
+This time will have to kill a dragón, but that wont be easy....
+
+64 stages, with an story driving the action, rpg like.
+
+Several gameplay schemes, platforming, flying/shmupping, sailing...
+
+Seven bosses
+
+One minigame included
+
+All my hard work and love for gaming put here.
+
+Next week i will return.
+
+Regards. 
