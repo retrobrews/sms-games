@@ -1,0 +1,25 @@
+Galactic Revenge
+Game for Master System 
+
+3.00	27 Mar 2018	eruiz00
+
+It's the year 33XXX. Dirty aliens from a faraway galaxy emptied your refrigerator and killed your boyfriend. 
+Confident in their superiority, they also had the nerve to steal your beloved Master System.
+
+NOW THEY'VE GONE TOO FAR...
+
+Your are Olivia Gun. Get your blastin' shoes on and pick from three killer outfits. Wield fire, spread shots, lasers, and even shurikens.
+
+Wipe the grins off their faces as you jump, shoot, and fight your way through their ship and turn them into scrap as payback for their heinous deeds!
+
+A short game, testing what can be done with 1mb rom. Trying to do my most polished game up to date. It began trying to do a Sunsoft Gremlins 2 engine clone. 
+I think has evolved and now has it own indentity.
+
+    20 stages
+    4 bosses
+    intro & ending
+    minigame at stage 13
+    All my love for 8 bits video games, z80 hardware, and the sms community. 
+
+I want to give thanks to Ray Commend, which did really good work with the boxes and the video, and Richard Morgan for his awesome game illustration. 
+Also to my tester, their opinions have been really valuable. 

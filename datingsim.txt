@@ -1,0 +1,10 @@
+Dating Sim
+Game for Master System
+
+1.00	27 Mar 2017	haroldoop
+
+This is my entry for this year: it's a pretty basic dating simulator made with twee2sam. 
+It was based on the example that comes with Ren'Py's DSE: https://www.renpy.org/wiki/renpy/DSE 
+All of the gameplay, as it is, is implemented; I intend to add images to the game if time allows but, 
+just in case, here's what is available so far. -- This is an update of my dating simulator entry. 
+Images were added for all the basic events; all that remains is to add the girls. 

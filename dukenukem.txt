@@ -1,0 +1,14 @@
+Duke Nukem
+Game for Master System 
+1	10 Mar 2017	Revo tibone Calindro
+
+Two-dimensional platform game, with vertical and horizontal scrolling.
+
+Use the rom on real hardware or use Emulicious as emulator. The indroduction don't work well on Meka.
+
+Rom à utiliser sur console ou avec l'émulateur Emulicious. L'introduction ne fonctionne pas correctement sous Meka.
+
+
+To buy a physical copy of the game, contact me: mmmrevolution@gmail.com
+
+Pour acheter une version physique du jeu, contactez moi: mmmrevolution@gmail.com

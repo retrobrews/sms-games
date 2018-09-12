@@ -1,0 +1,8 @@
+Duckslayer Adventures
+Game for Master System
+0.6.0	27 Mar 2018	haroldoop
+
+This game is called "Duckslayer Adventures".
+
+It is a tribute to an Atari 2600 game named 'Adventure'. In it, you control the intrepid Knight of the Square Table, Sir Jelly, the gelatinous cube. 
+His mission is to retrieve the Holy Chalice of Yendor that's stored inside the black castle, guarded by two fearsome Duck Dragons.

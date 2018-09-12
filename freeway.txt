@@ -1,0 +1,12 @@
+Freeway ’86
+Game for Master System
+
+20161119	19 Nov 2016	tibone
+
+The game is called Freeway '86 and it's a port/clone/version of Activision's Freeway.
+I have put maybe 2 months working on and off into it. Since i had never had programmed anything in C, it took me longer than it should be.
+So far, the game is simply a hi-score competition. You are the chicken and you have to cross the street. I want to implement player vs. player, player vs. ai, 
+and a mode where you can also move sideways.
+It's also mute atm, i want to put sound before the final release (it's my next step, actually).
+My idea with this, was keep the scope of the project really simple and doable, i think i've managed that.
+I tried to attach the source code, but gmail is nagging me about security. I'll release the source on my github, after the 'official' release. 

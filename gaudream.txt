@@ -1,0 +1,16 @@
+Gaudream 
+Game for Master System 
+
+0.04	27 Mar 2015	DanySnowman (Graphics), Davidian (Sound), Kusfo (Code)
+
+Description
+
+Here there's a very preliminar version of a Flappy Bird Clone, called Gaudream.
+
+Press button 1 to "Jump", button 2 to "charge", and down to dive!
+
+Gaudream has been developed by DanySnowyman (Graphics), Davidian (Sound) and me, Kusfo (Code), using the wonderful devkitSMS by sverx.
+
+After some cleaning, I also plan to release the source code.
+
+Enjoy!

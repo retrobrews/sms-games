@@ -1,0 +1,27 @@
+INTRO:
+------
+"Derpy's Mail" - Aypok's entry to SMS Power's 2012 coding competition. Code by Aypok (smspower@aypok.co.uk); Derpy image originally by "RJP" and Gilda originally by "bot-chan" (see: http://www.desktopponies.com/1_8_Art-Credits.html). Images used, resized and recoloured without permission. >_>
+
+This is a very basic "game" with no real ending - it just gets harder and harder until you lose all you lives or it loops around and goes back to the starting difficulty.
+
+PLOT/HOW TO PLAY:
+-----------------
+You're Derpy Hooves, mail mare. Spike's ill, so Twilight Sparkle has asked you to fly her letters to Princess Celestia. But Gilda is harassing you! Fly around and press button two to drop an anvil on her. It'll make her much more angry, which is probably not all that good of a plan, to be honest.
+
+Avoid getting hit by Gilda - she'll steal one of Twilight Sparkle's letters. If you lose all three, you have to return to Ponyville. Twilight's a very forgiving pony, so you can try again.
+
+WHY:
+----
+This was made in under six hours - starting six hours before the deadline. I'm currently writing this readme file with five minutes to go... I originally planned to spend the last two weekends on this, adding a scrolling background, muffin pick-ups, a display to show the score and multiple enemies - along with a proper end game. Maybe later.
+
+EDIT: This is the updated submission, where I've spent an extra ninety minutes on it (on 2012-03-27), right before the real deadline. A proper "game over" state has been added, it shows remaining letters and has a simple sound effect on collisions. Total time taken: about seven and a half hours.
+
+COMPATIBILITY:
+--------------
+I've only tested this on Meka v0.80 (using the latest code from SVN as of 2012-03-14). I've not tested it on any other emulators or even on real hardware (although it should be fine - maybe not the sound, though).
+
+BUGS:
+-----
+ * Sometimes Gilda flies too hit to be able to hit with an avil, so you have to lose a letter to move her (by colliding).
+ * The last sprite of Gilda vanished for me once (about ten minutes ago), but I've not been able to replicate it.
+ * There's a load of graphics corruption at the end of the tile table in VRAM. I've not looked at what's causing it.
