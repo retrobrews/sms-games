@@ -1,0 +1,13 @@
+BOoM
+Game for Master System 
+1.1	5 Apr 2014	vingazole ichigobankai furrtek
+
+Manual
+
+BOoM, based on a well known battle game (bomberman) You need a homemade multitap to play it correctly with up to 3 friends on Hardware. No emulator can run properly the game (you control all players at the same time...)
+
+My very first program in C, an dmy first ever program for our dear Master System. I've used z88dk, but the project will slightly move to SDCC which seems to be much much more better & optimized than z88dk. My friend Vingazole converts critical things into asm (because z88 is slow & not optimized !)
+
+Unfortunately, it's unfinished, i've only started this 4 weeks ago. Graphics ripped from few bomberman games, edited to fit the console limits.
+
+With this multitap, I've got other multiplayers game in Mind now ^^ 

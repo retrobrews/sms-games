@@ -1,0 +1,125 @@
+==================================================
+= Game  : Bread and Butter World                 =
+= Author: Dragonfeet (dragonfeetvg@gmail.com)    =
+= Date  : 2/22/2015                              =
+==================================================
+
+Contents:
+1. Story
+2. Goal
+3. Controls
+4. Score
+
+
+============
+= 1. Story =
+============
+
+   The Game Police are after Bread and Butter! 
+
+   The Game Police are a paramilitary organization that 
+enforce draconian standards on modern games. Their code demands that
+all modern games released on consoles must have hour long tutorials, 
+60 hour story modes, lengthy cut-scenes with no player interaction, 
+consist of polygons, and use all 8 buttons on the controller 
+among other things. Being in short, easy to pick-up and play games 
+with 2-D graphics puts Bread and Butter in violation of multiple 
+portions of the code. Men dressed in body armor carrying rifles 
+and tazers are now hunting them! Punishment for violating the 
+Game Police code includes imprisoment and "re-education" where 
+the subject is tortured and broken until they give in to the code.
+
+  Bread is young baking prodigy. Butter is just a fat kid who likes 
+to eat the stuff that Bread bakes. Two children don't stand a chance 
+against an army of armed grown men! Or do they... 
+
+  Bread has a plan! The highly trained and well equipped officers of 
+the game police are expensive,and they're funded by a private investors.
+If the private investors were to go broke, they wouldn't be able to pay
+their officers, and then would not be able to operate. By sneaking into
+the investors' four offices and destroying their computers and 
+financial records, the Game Police can be bankrupted. 
+
+   Can these two youths sabotage the Game Police before they are 
+captured? 
+
+
+===========
+= 2. Goal =
+===========
+
+   Each level is broken into four sub-levels.
+Sub area 1 - Bread collects eggs.
+Sub area 2 - Butter collects milk.
+Sub area 3 - Bread collects flour. 
+             The Bread of Legend is baked.
+Sub area 4 - Butter jumps from platform to platform up a tall building.
+             Then he sneaks into the computer room through a window. 
+             The Bread of Legend is released and the computer room is 
+             destroyed. 
+
+   Once all four computer rooms are destroyed, Bread and Butter run
+freely into the sunset.
+
+
+===============
+= 3. Controls =
+===============
+
+This game is for one player only. 
+
+Title Screen:
+-------------
+Up - change menu selection
+Down - change menu selection
+Button 1 - select option
+
+"START" - Begin the game at level 1-1.
+"CONTINUE" - Begin the game at the last stage you died on.
+"EASY", "HARDER", "BAD IDEA" - Controls the length of each level by 
+                               16 screens, 32 screens, or 64 screens.
+
+Score and Lives Screen:
+-----------------------
+Button 2 - Begin the level.
+
+You get three lives. If you run out of lives you may continue from
+the title screen. You get three more lives, but your score is
+reduced to zero.
+
+Level:
+------
+Right - Make Bread or Butter move right.
+Left - Make Bread or Butter move left.
+Button 1 - Jump. Hold down on the jump button to keep going up, 
+          up to the maximum jump height. Release button 1
+          in mid-jump to stop going up. 
+          Bread and Butter can disobey the laws of physics
+          and move left or right while in mid-jump.
+Button 2 - Run. Hold down on button 2. When pressing right or left,
+         Bread or Butter travel twice the distance in the same 
+         amount of time. Release button 2 to stop running.  
+PAUSE - Stop the game.
+        Press PAUSE Again to restart the game.
+RESET - Erase the high score and return to the introduction screen.
+ 
+You die and are forced to repeat the level if you fall to the bottom
+of the screen or collide with one of the Game Police. 
+Take it slow and be careful!
+
+
+============
+= 4. Score =
+============
+
+Horizontal levels:
+Advancing the screen by 8 pixels: +1 point
+Collecting an ingredient: +5 points
+
+Vertical levels:
+Going up one screen: +5 points 
+
+The high score is recorded. It is lost if the game is 
+powered off or you press the reset button.
+
+

@@ -1,0 +1,16 @@
+Bloki
+
+Game for Master System 
+1.03	9 Apr 2015	tripledonkey, sherpa
+
+Music is well known tunes except for "ditty" which was originally composed by Sherpa. 
+This is my first ever Z80 project and SMS game so go easy ;) Tested on MEKA, Kega Fusion and Emulicious. 
+Some of the initial bugs fixed and you now get awarded 1 point for each piece dropped in addition to the regular scoring.
+
+The graphics and palette are not as polished as I would like, I will improve it over time.
+
+I've included appalling box art that is meant to be a shoddy rip off of a SEGA game for a non existent clone called the K9918. 
+Hopefully this is not considered too offensive, its only in jest!
+
+I haven't tested this on a real SMS and would appreciate if anyone could try running it on the SMS? 
+I've had one report of glitching on Retroarch emulator. 

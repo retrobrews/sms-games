@@ -1,0 +1,481 @@
+Bock's Birthday 2004
+====================
+
+Starting Up
+===========
+
+1. Set up your Master System or Master System II as described in its instruction
+   manual. Plug in Control Pad 1.
+
+2. Make sure the power switch is OFF. Then insert the Sega Cartridge into the
+   Power Base.
+
+3. Turn the Power Switch ON. In a few moments, the Title screen appears.
+
+4. If the Title Screen doesn't appear, turn the power switch OFF. Make sure your
+   system is set up correctly and the cartridge is properly inserted. Then turn
+   the power switch ON again.
+
+*Important:* Always make sure that the power switch is turned OFF when inserting
+or removing your Cartridge.
+
+*Note:* This game is for one player only.
+
+(1) Sega Cartridge
+(2) Control Pad 1
+
+            (1)
+   __________|_____
+  / |     [====]  /|
+ /______________\//
+|_____o_o_______|/
+      |
+     (2)
+
+Introduction
+============
+
+Welcome to Bock's Birthday 2004, the amazing new title for your Sega (R) Master
+System. Heard of the awesome power of Sega's Mega Cartridge(R)? This is like
+that, only more awesomely refined and concentrated so it'll fit into 3/8ths of a
+Mega, so get ready for some 3/8ths hot 3/8ths action!
+
+What's going on?
+================
+
+The year is 2005 AD. World-renowned electronic archaeologist Mr. Bock Lee Temjin
+Omar Zoop Sega Cool Cornut-Kitty is making final preparations for the impending
+anniversary of the opening of SMS Camp, his website devoted to mobile phone text
+messaging in tents, which later changed its focus to Sega 8-bit preservation.
+
+However, something is missing. Gnawing deep into his soul is the knowledge that
+there is a gaping chasm in the fabric of the universe. Bock's Birthday 2002 is
+well-loved and viewed in silence worldwide every SMSDay (the day after Friday).
+Bock's Birthday 2003, bringing multiply slaughtered cloned Italian plumbers to
+those with the ability to play Minesweeper, traditionally follows with its
+awesome FM music and reminder that all our games are belong to SMS Power.
+
+But what of Bock's Birthday 2004? What happened? Nobody knows.
+
+Venturing into some kind of handy plot device, Bock meets an old woman in a huge
+tree stump. "HEY BRAVE WARRIOR, LISTEN CAREFULLY" she shouts at him. She tells
+him about the real story of Bock's Birthday 2004, about the space-alien
+kidnapping, about the government cover-up, about the amazing battle through
+space and time to save the universe. The story is almost unimaginable - almost,
+that is, because I'm not going to tell you about it so you're going to have to
+imagine it yourself. Stop being so lazy.
+
+So anyway, that explains exactly what happened and why it's four months late. If
+Heliophobe can come up with such a plausible excuse for his SMS Power birthday
+demo being late (or not released at all, we're still waiting), I'd like to see
+it. And it is surely more deep, multi-layered and culturally significant than
+most game stories (which isn't saying much).
+
+
+Dancing?
+========
+
+You betcha. Dance Dance Revolution may or may not be the original dancing game -
+I don't really know or care, but you can be sure that there's nothing else like
+it on the SMS. If you don't know how to play, here it is.
+
+You've got a playing field with arrows on it, and music playing in the
+background. The arrows are timed with the music so they map out dancing steps -
+if you press the arrows on your dance mat at exactly the same time as the
+corresponding arrows line up with the ones at the top of the screen, not only
+will you be dancing in time with the music, you'll also be highly entertaining
+to those around you and you'll be getting a huge score.
+
+There are five possible ratings for you. They are:
+
+Perfect
+Great
+Good
+Boo
+Miss
+
+The closer your timing is to the exact moment when the arrows line up, the
+better your rating will be. Get Perfect or Great to line up a combo - and as
+your combo length builds, your score will skyrocket!
+
+Scoring
+=======
+
+Here's how the scoring works:
+
+Step rating  Score      Combo length
+Perfect      M * M * 3  +1
+Great        M * M      +1
+Good         M          Set to 0
+Boo          0          Set to 0
+Miss         0          Set to 0
+
+What's M? Well, it's a multiplier that depends on your combo length. It is
+calculated like this:
+
+Combo length  M
+0-3           1
+4-7           2
+8-11          3
+12-15         4
+
+...and so on: your combo length is only limited by how well you can dance! Get a
+combo length of 10 and each Perfect step is worth 27 points. Keep going up to 20
+and it's 108 points... get to 100 and a single step gets 2028 points. These are 
+the highest scores possible:
+
+Beginner   167892
+Light      964965
+Standard   964965
+Heavy     2185461
+
+If you can get even 10% of these you're very good. I normally get 15000-20000 
+without trying very hard.
+
+You can keep track of your combo length and score near the bottom of the screen.
+
+(1) Target arrows
+(2) Rating
+(3) Step arrows
+(4) Combo length
+(5) Score
+
++---------------------+
+|  /    |    ^    \   |
+| (--  \|/  /|\  --)-----------(1)
+|  \    V    |    /   |
+|      PERFECT!----------------(2)
+|                     |
+|  /              \   |
+| (--            --)-----------(3)
+|  \              /   |
+|         01-------------------(4)
+|      00000003----------------(5)
++---------------------+
+
+But I don't have a dance mat!
+=============================
+
+Don't worry, nobody does. Maybe you could make one out of a PlayStation dance
+mat. Maybe I could see if my proposed Playstation to SMS controller adaptor
+(sold separately, includes free Intellivision Keyboard Component) would work if
+I wrote a suitable driver function for it. Maybe one of those adaptors Lik-Sang
+sells (http://www.lik-sang.com/info.php?products_id=3462) would work. Maybe if
+they send me one, I'll put in an ad for them. All these possibilities :)
+
+Alternatively, you can just play it using the ordinary controls. it's still fun
+that way, and you are less of a spectacle.
+
+Very minor compatibility warning
+================================
+
+Before you go off and start on that: this program has a known compatibility
+feature that results in partial lack of functionality on the Sega Master System
+(and some emulators). Other systems are untested. In other words, it has a bug
+so it doesn't actually work on a real system at the moment. Even if it did, you
+wouldn't be able to hit opposite arrow directions on the joypad. A bugfixed 
+version is in development, but don't hold your breath waiting for it.
+
+Hints and Tips
+==============
+
+- Try to listen to the music more than watching the arrows. You'll get better
+  timing that way.
+
+- When you have to press two arrows at the same time, the game will allow you to
+  press one slightly before the other, and only register your input once both
+  are pressed. So don't go nuts trying to hit them at the same instant.
+
+- Remember, Good ratings are OK but they're not Good for your combo length.
+
+
+Alternative titles
+==================
+
+Shenmue 3:
+  While I was working on it back in November 2004, Bock was trying to find out
+  about it; he jokingly guessed that it might be Shenmue 3, so of course I had
+  to make sure it was, even if in name only.
+
+SMSPower 8:
+  Since it became a dual-purpose demo for SMS Power's 8th birthday, I "borrowed"
+  the title of Heliophobe's demo for the 7th birthday, continuing a fine
+  tradition of incestuous content-copying within the SMS demo scene.
+
+Copyright Violation Episode III:
+  Heliophobe wrote Copyright Violation in 2002 for the SMS Power Rush Coding
+  Competition #1 (not that anyone's recovered enough for #2 yet). Bock's
+  Birthday 2003 was so full of other people's intellectual property that it was
+  sub-titled Copyright Violation Episode II. So I may as well make this one
+  Episode III: The Rise of the Arrows, for which I am eternally grateful to
+  George Lucas for unknowingly choosing a subtitle for his crappy space-western
+  movie in which a single word change makes it exactly describe this demo.
+
+Bock Bock Revolution:
+  Well, it is a Dance Dance Revolution clone after all. Full credit goes to
+  Chris Covell for breaking open the vault of DPaint to convert my 24-bit
+  original logo into a pixellated masterpiece (which, incidentally, looks even
+  better on a real TV).
+
+
+Things you may have missed
+==========================
+
+"xiao presents"
+
+Nothing I ever do is without her support, criticism and interruptions :) She may
+not like having her name drawn 150 pixels high throughout but I think it looks
+cool.
+
+"Press the button!"
+
+Maybe someone is still sitting there looking at the "xiao presents" screen,
+waiting for something to happen. How silly that would be!
+
+"This is not a real scroller"
+
+Honesty is the best policy.
+
+
+The Making of Bock's Birthday 2004
+==================================
+
+Here's a little behind-the-scenes look at the magic of game making.
+
+So it all started in March 2004 when the 2004 Minigame Competition kicked off. I
+was thinking about possible options and I thought it might be nice to try for a
+DDR game for the 4KB category; I worked on a super-simple music engine, and
+spent far too long converting a crappy, but suitably cheesy, song (I'm not
+telling which) to my format by studying some sheet music I found online. Anyway,
+that was at the same time as doing my Masters' degree and it didn't pan out; I
+just didn't have the time for it.
+
+When November rolled around, of course I was making plans for Bock's Birthday
+2004. DDR was dusted off, and I decided to make a proper go of it this time.
+Martin Konrad's MOD2PSG2 was in its beta phase and he was happy to let me use
+it; I also got access to the playback engine so I could use it in my demo.
+
+I've never actually played DDR; my wife had a knock-off PC-based version and a
+dance mat pre-modded with a parallel port adaptor, which I had a go on and it
+was fun, if embarrassing. However, she was rubbish, and threw the thing away (it
+only cost something like ?.50 anyway) when we moved house. However, I
+remembered that the Butterfly song was kind of cool in a J-Pop way. I'd also
+heard a version of it come up on Gaming FM a few times over the summer. So I
+went off a-searching for a MOD version of it on the Interweb.
+
+Well, that wasn't successful. I found some MP3 versions, but even if I did
+manage to get a sample player and good enough compression for it to fit into a
+reasonable rom size, the difficulties of sample playback on the SMS would make
+it almost impossible to have a game happening at the same time.
+
+I did, however, manage to find a MIDI version of it. What's more, it was a
+karaoke MIDI (can you imagine anything worse?) with timed lyrics which might be
+useful for timing steps instead. So I went off and found every MIDI2MOD program
+I could find. There hasn't been much innovation in the MIDI2MOD area since about
+1993, and all the programs suck. I even managed to get the recommended one set
+up with the sample banks the authors kindly refused to include, but it never
+produced anything usable.
+
+Martin Konrad saved me by suggesting ModPlug Tracker. This is a MOD tracker,
+that runs in Windows, that can import MIDIs, even supplying its own samples. It
+can perfectly create an XM format module from my MIDI file, and it plays back in
+Winamp very nicely. But I can't save that to the required MOD format; when I
+want to convert, it simply asks me which 29 of the 32 channels I'd like to throw
+away. And some of the music sections that you might expect to be on the same
+track are split over two or three.
+
+But there is is solution. My dabbling in polyphonic mobile phone ringtones
+(getting chiptunes onto my phone) meant I was familiar with a little program
+called "PSMPlayer". It's a Japanese utility for converting between various
+levels of the MIDI standard, including the SMAF format for mobile phones, and it
+is able to do some simple editing and squashing-into-less-channels along the way
+(for devices that can only handle 8-track MIDIs, for example). One of its output
+settings is something to do with 3-track PSG so I went for that; it stripped
+everything down to a single instrument and three tracks, losing percussion along
+the way. But it still sounded like Butterfly. This was good. I converted it to
+XM, and it still sounded good. Then I converted it to MOD, and ModPlug Tracker
+screwed it up. The volumes almost seemed to be inverted, so full-volume notes
+were silent and the lead parts were drowned out by the harmony.
+
+So I spent hours and hours, carefully editing the music to try to restore some
+of it. The repeated parts were OK, I could copy and paste them most of the time
+and they worked out OK. Martin was kind enough to add a little extra
+functionality to MOD2PSG2 to let it solve some of the other problems, too.
+Eventually I got it so it sounded right; any problems caused by its messiness
+could be dealt with later. (Much later, I figured out how to get the pattern
+lengths sorted out and the resultant PSGMOD file almost looks good, except for
+the way it totally fails to re-use patterns.)
+
+The next step was to make a game engine. I found a screenshot of DDR, and made a
+version of its arrow in Paint Shop Pro, and did a whole lot of editing to try to
+make the top-of-screen sprite arrow mask (the arrows at the top of the screen
+that don't move, which are implemented as stationary sprites against a moving
+background). Problem was, even by cutting off some small parts of the mask, I
+was only just able to get it done using all 64 of the system's sprites. I'd have
+to reassign the sprite table in a horizontal interrupt routine to show anything
+else, since the background layer would be constantly scrolling and thus a
+useless place to display status information, or could I use the scroll lock to
+deal with that? Ah well, it worked just enough and I could deal with any
+problems later. I even had the arrows changing colour as you pressed buttons, by
+updating the palette of course.
+
+I found some step diagrams on a DDR website, and transcribed them into my code.
+It should be a simple matter of comparing the current inputs to the step data,
+right?
+
+Next up was to get the arrows drawing and scrolling. Drawing is easy, you just
+draw on the off-screen area so it looks like a smoothly scrolling larger
+tilemap. But there are only four offscreen lines and my arrows are five line
+high. I decided I'd come back to it.
+
+Scrolling seems easy until you set the requirement that it has to scroll exactly
+40 lines every 24 frames for this song (so arrows don't over-print each other,
+and of course are aligned to the 8x8 pixel grid of the tilemap), and if I want
+to include more songs, I'd better make it not hard-coded with that. So I went
+off and wrote an implementation of Brenham's Line Drawing Algorithm, which is
+ideal for plotting values from (0,0) to (24,40). It's actually really cool how
+simple it is in Z80 assembler.
+
+And... it was now about 10pm on 25th November. Bock's Birthday is here and my
+demo is nowhere near finished. Still, I had to do something, so I made a VGM
+version of the music and sent him that. I promised I'd do the rest later, and
+made a mental note that I could easily get it done in time for Christmas. Or, if
+not then, the SMS Power anniversary on March 27th would be plenty of time to get
+it totally finished.
+
+At least Charles would release the demo he'd been working on. I'd reminded a few
+other people too, and they could do something too since I'd failed. They
+wouldn't fail too, would they?
+
+...
+
+Well, I didn't do anything much in December. Or in January; I did try to
+optimise that sprite mask to free up sprites, by cleverly overlapping and
+aligning sprites, but that was really hard and I never made much progress. In
+February I didn't do anything either. By the time March came around, I realised
+I'd better pull my finger out (metaphorically speaking) and started to spend
+time on it when I could; my wife's exam revision meant I had to clear out
+anyway, so it was a good excuse. I spent a lot of evenings on it, but I was
+unmotivated to get back into the source and Z80 programming is hard when you
+don't have solid blocks of 4 or 5 hours to devote to it. So I found myself doing
+all kinds of everything but working on it; Bock unwittingly helped by supplying
+unprocessed video files, museum developments, etc, but it was all fun so I'm not
+complaining. I did make quite a lot of progress. I made a flickering-sprites
+function because that's better than a half-the-sprites-are-never-shown function,
+and most emulators will allow it to work without flickering anyway. I eventually
+threw away my entire arrows-drawing-and-scrolling code and did it again, this
+time using precomputed tables for scrolling (24 bytes isn't a huge price to pay)
+and making the arrows draw in two overlapping three-line phases, so the
+scrolling was smooth and beautiful. It still didn't actually work though,
+because I still didn't have anything parsing the step data to know what you were
+supposed to be pressing; and getting everything properly synchronised was
+turning out to be the most difficult part of it.
+
+Just as I was starting to be afraid of missing my latest deadline, it turned out
+that SMS Power's birthday was on Easter Sunday, which meant that the Friday
+before was a Bank Holiday - that's what we call a public holiday/free day off
+work here in the UK - so I had, in theory, three full days before the deadline.
+In 72 hours, imagine what I could achieve! Well, I had to sleep, eat, be nice to
+my darling wife, lose an hour as I sprung forward into BST (that's what we call
+Daylight Savings Time, rest-of-world-who-don't-speak-proper-English), etc, but
+it was a block of time to fit it into so I decided to go for it.
+
+I re-implemented the top arrows using double-sized sprites, which neatly fit
+into 24 sprites instead of 64-with-bits-missing, leaving space for other useful
+stuff like ratings (coded, displayed, animated, but still no code to trigger
+them) and a score (later on). I edited the background arrows to have matching
+blocky white bits and for the first time the scroll-under-matching-sections
+worked (well, almost). I got some code to track the steps that were supposed to
+be happening, and it was indeed showing (in Meka's RAM Viewer, at least) the
+"current" step that had been drawn a few seconds ago but was due to be pressed
+in time with the music.
+
+At this point I realised that my step data lasted about 90 seconds and my music
+lasted about 150 seconds. After some frantic editing of both, I had it finally
+figured out (IIIAABBCAABBDD, and IIIAABBCAABBDDBBBBDDO, or something like that),
+the PSGMOD actually looked right, and it seemed to be lining up with the data.
+The understanding of 2's Complement notation I'd got from my degree meant I
+could implement abs() in a few opcodes and be calculating the accuracy of steps.
+Some rapid kludges later to deal with timing accuracy, and with a non-kludge
+modification to Meka for debugging them, I had ratings working.
+
+Now I was getting greedy. Ratings are nice, but what I want is scoring! A quick
+Google found a website with algorithms for DDR scoring, and I implemented them
+with modifications (not least, I stopped it multiplying your score by zero). The
+fact that the score can exceed 64K and the combo length can exceed 256 made for
+some fun, as I would be multiplying 16-bit numbers and adding the 32-bit result
+to a 32-bit score, all on an 8-bit CPU, and then all I had to do was convert
+that to decimal for display! Well, that was a fun, but I cracked it with an
+interesting algorithm based on how Phantasy Star displays your money total,
+extended to 32 bits and involving adding negative numbers to perform
+subtraction.
+
+At this point I ran out of sprites. My huge "PERFECT!" display took a lot of
+them, and in the end I was left with 10 sprites to display both the score and
+the combo total, so I did an 8-2 split, and made the scores 100 times less than
+in the original DDR (3 instead of 300, 1 instead of 100) so a 100%-Perfect Heavy
+game wouldn't exceed my 8-digit maximum.
+
+A quick detour to ask Martin how to make his music engine tell me when it had
+finished playing the song, and I had a playable game.
+
+All that's left is:
+
+1. An introduction to the game
+2. Some way to choose the difficulty
+3. Something at the end to tell you how well you did
+4. Maybe I should implement the Pause button handler too
+5. Making sure it runs on a real system is always a bonus
+6. And if I really have nothing better to do, the Reset button could be made to
+   do what it's supposed to do
+7. More songs? Erm, no. Maybe in the next version, the engine is not hard-coded
+   to anything (as far as I know). All you need is to provide music and steps.
+   And do a lot of work to make them synchronise properly.
+
+I had already made some artwork for the intros; artwork is easy when you wrote
+BMP2Tile and implemented decompressors for Phantasy Star-type compression! Well,
+the hard part is making it look good. I have techniques for reducing things
+nicely to 16 of the SMS's 64 colours, but they tend to end up looking spotty as
+they make a lot of use of error diffusion dithering; I haven't found an easy way
+to do ordered dithering. Chris Covell didn't much like what I showed him and
+offered to help; he converted my super-smooth 24-bit antialiased Bock Bock
+Revolution screen using DPaint, and it looks kind of cool. I quickly ran through
+what else I needed to display:
+
+- xiao presents
+- Shenmue 3 (I'd already prepared this, ripping graphics from the shenmue.com
+  splash screen Flash and doing my usual conversion)
+- Copyright Violation Episode III (not too bad, The Rise of the Empire seemed
+  too good to be true)
+- Bock's Birthday 2004 (cheesy montage of previous years' screens)
+- SMSPower 7 -> 8 (ripping content makes life a bit easier)
+- difficulty select
+
+As I worked through the list, my head grew heavy, my sight grew dim, I had to
+stop for the night... but I couldn't. It really sucks to feel quite so much like
+you're about to flake out when you're coding, but be unwilling to stop; perhaps
+I ought to start drinking coffee or something.
+
+Obviously, as my brain blue-screened and glitched, the code flowing from my
+fingers was decidedly buggy, and in my fragile state of mind I felt real pain as
+the difficulty select turned out to be completely broken. It took me forever to
+realise my mistake (inc c; and 3; will not force 0<c<3) but at least I got it
+sorted. At this point, I had only done the first two things on my list, but I
+could not go on, and it was at least presentable. I did a final check that it
+actually worked, set the version to 1.00, recompiled, renamed, zipped, uploaded,
+posted "I am dead" and went to bed, swearing not to touch any Z80 code, or the
+game, for at least a few months.
+
+The next morning, I was glad to see some positive comments, even if everyone
+else's demos were not ready. As I did some online research for my wife, kind
+comments and lame high-scores came through in the #smspower IRC channel, and I
+was even happy to play my game, enjoying it for the first time, getting to play
+it properly for the first time since the previous afternoon's breakthrough into
+actual gameplay. It almost seemed worth it :)
+
+
+Final words:
+
+1. Happy birthday Omar!
+2. Dedicated to poor little "why'd you put my name on it so big?" xiao.
+

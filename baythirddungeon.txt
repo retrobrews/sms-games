@@ -1,0 +1,44 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Bay Third Dungeon
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+by tibone (www.classicgames.com.br)
+
+
+
+Bay Third Dungeon is an text-adventure (digital comic) game for the Sega Master System.
+Developed using the amazing twee2sam by haroldo-ok
+
+Some images from pixabay.com (free and allowed to modify)
+Some images are (c) SEGA. (and perhaps Westone?)
+The rest of the images made by tibone.
+
+Some music is public-domain.
+Incidental track "Harrier Theme" by Hiroshi Kawaguchi
+The rest of music made by tibone.
+
+
+Made for the SMSPower 2nd Rush Coding Competition.
+
+All dialogues and text written by tibone (sorry about that).
+
+
+Download and source code available from www.classicgames.com.br
+------------------------------------------------------------------------------
+Be sure to visit:
+
+http://www.smspower.org - SMSPower is the best Master System site on this side of Fantasy Zone.
+
+https://github.com/haroldo-ok/twee2sam - Twee2Sam is so easy to use, that even someone like me can make a game.
+
+http://www.classicgames.com.br - I have made other games, and lots of music. (I recommend the music, not sure about the games).
+
+
+-------------------------------------------------------------------------------
+V1.1 - 2018-08-02
+- Built with lastest twee2sam, now compatible with real hardware. 
+- Re-ordered palette of all images, it should fix the bug where there's a underlying background color over the text. 
+- Re-built the text script, adding page breaks, to avoid mem leaks into the sprites. It should fix the casual "garbage" on screen bug. 
+
+
+
+

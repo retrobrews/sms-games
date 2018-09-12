@@ -1,0 +1,79 @@
+Bread and Butter
+Game for Master System
+
+1.032	8 Jan 2013	dragonfeet
+
+Story
+
+Bread and Butter is an arcade style action game for the Sega Master System (or emulator). You run, jump, climb and float on balloons to avoid wild animals and collect the super-sized ingredients to bake the Bread of Legend.
+
+Bread is a girl with brown hair who always wears an apron and a chef's hat. She wants to become the greatest baker in existance and things such as danger and common sense won't stand in her way! Butter is just a fat boy in a green shirt with blond hair who loves to eat. So he follows Bread everywhere she goes, for food is soon to follow.
+
+It is Bread's life goal to bake the Bread of Legend. The ingredients are rare and hidden in very dangerous places. Bread sets off without hesitation to collect the ingredients. Butter warns Bread of the dangers, but she doesn't listen. Butter still follows, as his stomach always gets the better of him.
+
+Collect the ingredients from 8 different stages as you go for the high score!
+Goal
+
+The goal in each level is to collect 9 of the ingredient presented at the top-center of the screen. The number to the right of the ingredient shows you how many are collected. Bread gets one point for each ingredient she collects. Butter gets one point for each ingredient he collects. Bread's score and number of lives is in the upper-left of the screen. Butter's score and number of lives is in the upper-right of the screen.
+
+When 9 of the ingredient are collected, the word "GOAL!" appears on the screen. Player 1 or 2 can press button 1 to continue to the next level. When Bread OR_ Butter are reduced to zero (0) lives, "GAME OVER" appears on the screen and both player's scores are listed on the screen. Player 1 or player 2 can press button 1 to return to the title screen.
+
+The game consists of 8 levels that repeat until a player scores 9999 points or a player is reduced to zero lives. But getting 9999 points requires the completion of 1111 levels! (more if two are playing!) Each player only gets 3 lives to start the game. There is no way to get additional lives during the game. See how high you can get your score before your lives run out!
+Instructions
+
+Bread and Butter is a 2 player simultaneous game for the Sega Master System (and its emulators). Player 1 controls Bread, the girl in the white apron with a chef's hat. Player 2 controls Butter, the really fat boy in the green shirt with blond hair. Each player starts in a safe zone where the wild animals won't go. When you die, you will respawn to this safe zone.
+
+These controls are the same for every level:
+
+RESET
+    Go back to the title screen and erase all score information.
+PAUSE
+    Press the PAUSE to pause the game. All sound and movement stop until the PAUSE button is pressed again to resume the game.
+RIGHT
+    Move the character to the right.
+LEFT
+    Move the character to the left.
+Button 1
+    Make the character jump. Hold down on the jump button for a higher jump. The character will start to fall when the jump button is released or when the maximum jump height is reached. You will not be able to jump again until you touch the ground. 
+
+These controls only exist for levels with vines:
+
+UP
+    Climb up a vine.
+DOWN
+    Slide down a vine. 
+
+These controls only exist for levels where the character is holding onto a giant balloon:
+
+UP
+    Move the player up. There is a ceiling you won't be able to move beyond.
+DOWN
+    Move the layer down. There is a floor you won't be able to move beyond. 
+
+Button 1 does not apply to giant balloon stages.
+Version 1.01 - Challenge modes
+
+Player 1 can select from 1 of 4 challenge modes at the title screen.
+[Up]+[1]	= Start game with 1 life.
+[Down]+[1]	= Game ends after 4 minute timer expires.
+[Right]+[1]	= Game ends after 8 minute timer expires.
+[Left]+[1]	= Game ends when player 1 or player 2 scores 50 points.
+
+Just pressing 1 starts the game with 3 lives and no additional restrictions.
+Version Differences
+
+    Version 1.00
+        256kb game, all 8 stages are included. 
+    Version 1.01
+        48kb game, for a cartridge without mapping logic
+        Contains levels 1, 2 and 3 only.
+        Adds 4 challenge modes selectable by player 1. 
+
+Credits
+
+Main Program
+    V. Crisafulli (VAC)
+Testers/Quality Assurance
+    (only first names are used to protect the innocent) Matt, Anne, Joey, Paul, Jason
+Special Thanks
+    to my wife Lisa for not killing me during the season long development of this game, my dog Gidget for supporting me every step of the way by learning how to pull the socks right off my feet so she can bite my toes. 

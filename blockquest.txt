@@ -1,0 +1,9 @@
+knights-of-the-square
+=====================
+
+Sega Master System (SMS) Homebrew
+
+A sidescrolling hack-and-slash inspired by Capcom's Knights of the Round. Most sprites are minimalistic 8 x 8 square tiles, 
+hence the name of the game.
+
+http://www.smspower.org/forums/14903-BlockQuestTowardsKnightsOfTheRoundForTheSMS
