@@ -738,8 +738,8 @@
      <desc>Arkanoid type of game, where you need to destroy all the blocks. Controls: left/right to move paddle, pause key will directly skip to next level. Includes 4 different levels and 2 catchy tunes for your enjoyment. The demo progresses to the next level when all the blocks on screen have disappeared. Blocks disappear when the ball bounces against them. Silver blocks need to be hit twice, golden blocks are indestructible.</desc>
      <image>./markanoiiid.png</image>
      <rating>0</rating>
-     <releasedate>XXXX0000T000000</releasedate>
-     <developer>X</developer>
+     <releasedate>20160327T000000</releasedate>
+     <developer>sverx, Kagesan, Tomy (TomyS)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>MARKanoIIId</genre>
      <players>1</players>
