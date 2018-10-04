@@ -25,7 +25,6 @@ Homebrew SMS games
 - BOoM<br />
 - Bread and Butter<br />
 - Bread and Butter World<br />
-- Bruce Lee<br />
 - Burgers of Hanoi<br />
 - Cardiac Arrest<br />
 - Casevac<br />
@@ -93,4 +92,7 @@ Homebrew SMS games
 - Weka Invaders<br />
 - Zombi Terror<br />
 <br />
-*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on retrobrewsATgmail.com. Thanks!
+
+*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on email. Thanks!
+<br /><br />
+*** This README is part of https://github.com/retrobrews/ project. ***
