@@ -277,18 +277,6 @@
      <players>1</players>
    </game>
    <game>
-     <path>./brucelee.sms</path>
-     <name>Bruce Lee</name>
-     <desc>Collect the lamps and fight Green Yamo and the Ninja!</desc>
-     <image>./brucelee.png</image>
-     <rating>0</rating>
-     <releasedate>20150403T000000</releasedate>
-     <developer>Kagesan</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>Bruce Lee</genre>
-     <players>1</players>
-   </game>
-   <game>
      <path>./burgersofhanoi.sms</path>
      <name>Burgers of Hanoi</name>
      <desc>Help Burly Bear making burgers - but in a different way you might expect!</desc>
