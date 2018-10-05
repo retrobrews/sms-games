@@ -93,6 +93,6 @@ Homebrew SMS games
 - Zombi Terror<br />
 <br />
 
-*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on email. Thanks!
-<br /><br />
+*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please contact me on email. Thanks!
+
 *** This README is part of https://github.com/retrobrews/ project. ***
