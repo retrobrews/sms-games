@@ -34,10 +34,18 @@ http://www.classicgames.com.br - I have made other games, and lots of music. (I 
 
 
 -------------------------------------------------------------------------------
+V1.2 - 2018-09-10
+- Built with lastest twee2sam. 
+- Fixed the hidden menu bug.
+- Fixed the call/jump bug.
+- Couple of small changes to the text script. To avoid mem leaks.
+
+
 V1.1 - 2018-08-02
 - Built with lastest twee2sam, now compatible with real hardware. 
 - Re-ordered palette of all images, it should fix the bug where there's a underlying background color over the text. 
 - Re-built the text script, adding page breaks, to avoid mem leaks into the sprites. It should fix the casual "garbage" on screen bug. 
+
 
 
 
