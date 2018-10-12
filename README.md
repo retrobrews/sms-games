@@ -6,7 +6,6 @@ Homebrew SMS games
 - 2048 [Sanqui]<br />
 - 3D City<br />
 - Acid Reflux<br />
-- Anguna the Prison Dungeon<br />
 - AntiISDA Warrior<br />
 - Artillery Master 8k<br />
 - Astro Force<br />
@@ -62,7 +61,6 @@ Homebrew SMS games
 - LD19 Practice Game<br />
 - Little Sokoban<br />
 - Lost Raider<br />
-- MARKanoIIId<br />
 - Master of the Labyrinth<br />
 - Minesweeper<br />
 - Moggy Master<br />
