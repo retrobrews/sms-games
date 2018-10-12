@@ -49,18 +49,6 @@
      <players>1</players>
    </game>
    <game>
-     <path>./anguna.sms</path>
-     <name>Anguna the Prison Dungeon</name>
-     <desc>A top-down fantasy action-adventure game, with 5 dungeons to explore.</desc>
-     <image>./anguna.png</image>
-     <rating>0</rating>
-     <releasedate>20150327T000000</releasedate>
-     <developer>Sverx</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>Anguna the Prison Dungeon</genre>
-     <players>1</players>
-   </game>
-   <game>
      <path>./antiIsdawarrior.sms</path>
      <name>AntiISDA Warrior</name>
      <desc>Your server full with all those 15 years old Sega Master System software, of which nobody cares anymore since ages, unfortunately is being attacked by some ISDA agents and they want to format your only hard disk you ever owned (40MB). They are attacking from various ports, so you have to aim your ping bombs more precisely with the joypad keys or the joystick. Press (A) or (B) to shoot. Good Luck.</desc>
@@ -718,18 +706,6 @@
      <developer>vingazole, Ichigobankai</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Lost Raider</genre>
-     <players>1</players>
-   </game>
-   <game>
-     <path>./markanoiiid.sms</path>
-     <name>MARKanoIIId</name>
-     <desc>Arkanoid type of game, where you need to destroy all the blocks. Controls: left/right to move paddle, pause key will directly skip to next level. Includes 4 different levels and 2 catchy tunes for your enjoyment. The demo progresses to the next level when all the blocks on screen have disappeared. Blocks disappear when the ball bounces against them. Silver blocks need to be hit twice, golden blocks are indestructible.</desc>
-     <image>./markanoiiid.png</image>
-     <rating>0</rating>
-     <releasedate>20160327T000000</releasedate>
-     <developer>sverx, Kagesan, Tomy (TomyS)</developer>
-     <publisher>HOMEBREW ROM</publisher>
-     <genre>MARKanoIIId</genre>
      <players>1</players>
    </game>
    <game>
