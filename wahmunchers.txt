@@ -1,3 +1,6 @@
+WahMunchers R3
+By JoppyFurr
+
 You arrive at your red-panda farm, only to find that a pack of snow 
 leopards have broken into your paddock and are going after your flock. 
 
@@ -59,3 +62,12 @@ Changes in R2:
   * When filling a paddock, every line is filled rather than only every
 second line. (I've improved the line-filling speed, so was able to
 remove the every-second-line hack)
+
+Changes in R3:
+I've just sent in a new build, R3, which includes the change suggested by sverx to fix drawing over the fences.
+
+I've also turned back on some non-functional code that seems to avoid a compiler bug where the number of animals counted were incorrect (the likely cause of areas not being shaded in when they should be).
+
+Will hopefully be up soon :3 
+
+http://www.smspower.org/forums/17018-CodingCompetition2018WahMunchersByJoppyFurr
