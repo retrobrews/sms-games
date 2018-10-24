@@ -49,6 +49,7 @@ Homebrew SMS games
 - Prisonnier II<br />
 - Racer 1 (classic)<br />
 - Racer 2 (rebooted)<br />
+- Rental Cars<br />
 - Scope<br />
 - Shooting Stars<br />
 - Silver Valley<br />
