@@ -1,4 +1,0 @@
-Draw Poker
-1.00	27 Mar 2006	MadMikeAU
-
-Poker game.
