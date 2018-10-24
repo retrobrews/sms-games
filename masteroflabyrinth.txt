@@ -1,8 +1,0 @@
-Master of the Labyrinth
-Game for Master System 
-
-1.00	27 Mar 2016	Pedro76
-
-Master of the labyrinth is at its begining, its is programmed with Sverx's sdcc , i have done it with my girlfriend nivarel. 
-It works on meka, better on kega and best yet with PSP emulator master boy. 
-Be careful to not fall in the trap and become the master of the labyrinth (it'll be difficult , you cannot pass the bar). 
