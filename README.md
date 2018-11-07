@@ -9,6 +9,7 @@ Homebrew SMS games
 - Artillery Master 8k<br />
 - Astro Force<br />
 - Astroswab<br />
+- Bacachase<br />
 - Baluba Balok<br />
 - Bara Buru<br />
 - Battleships<br />
@@ -22,7 +23,9 @@ Homebrew SMS games
 - Bread and Butter World<br />
 - Burgers of Hanoi<br />
 - Chappie's ears Simon game<br />
+- Cix<br />
 - Colossal Cave Adventure SAM Edition<br />
+- Cye<br />
 - Data Storm<br />
 - Dating Sim<br />
 - Derpy's Mail<br />
@@ -35,6 +38,7 @@ Homebrew SMS games
 - Gemitas<br />
 - Gravity Beam: Master Gaiden<br />
 - Headless Ninja Volley<br />
+- Io<br />
 - KunKun & KokoKun<br />
 - KunKun & KokoKun 2 - Return of the Kun<br />
 - Lander1<br />
