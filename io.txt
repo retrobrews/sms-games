@@ -1,0 +1,50 @@
+Io
+0.13	27 Mar 2017	PkK
+
+I've noted the suggested theme of romance and love. Considering the famous quote "I am not prepared just now to say to what extent 
+I believe in a physical hell in the next world, but a sulphur mine in Sicily is about the nearest thing to hell that I expect 
+to see in this life." this entry might be just a little bit off from the suggested theme.
+
+The game is about managing a sulphur mine. The main aspect of the game is to supply enough sulphur to your HQ by building 
+a transportation network consisting of sulphur sources, depots, roads and rail. At the start of the game, you should first 
+connect your first sulphur source to the HQ. Rail connections have higher capacity than roads, but need more time to construct. 
+One unupgraded sulphur source supplies enough sulphur for one idle worker. Busy workers need twice as much. Building nodes in 
+empty space results in sulphur depots. Building nodes on sulphur vents results in sulphur sources.
+
+The current tool can be changed by the second fire button or by clicking on the toolbar. The first fire button starts construction.
+
+UI elements on top bar:
+
+    "Sulphur in HQ" (upper left corner): Shows the current amount of 
+
+sulphur in the HQ (you loose when this reaches 0, and the sulphur storage capacity of the HQ
+
+    "Workers" (just next to the above): Shows the number of free workers 
+
+(i.e. those not currently working on a construction site) and the total number of workers
+
+    "HQ Level" (upper middle): Current HQ level. Higher levels increase 
+
+the amount of workers and the sulphur consumption. You win the level by increasing this to 10.
+
+    "Toolbar" (upper right): Shows the currently selected tool (same as 
+
+cursor) and a clickable list of tools (you can also change the tool by using the right fire button). At certain moments,
+such as after changing the tool, the toolbar is briefly replaced by a display of the name of the new toll. 
+When the cursor is a above a node (HQ, depot, source) of the transportation network, the toolbar is replaced by a status display. 
+The status display shows the current amount of sulphur in the building under the cursor, and the sulphur storage capacity of 
+the building as well as the level of the building. In case of a threat, the toolbar is briefly replaced by a descirption of 
+the threat, and the background flashes.
+
+There are three difficulty levels, which affect the game in various ways:
+
+    Starting amount of sulphur in HQ
+    Storage capacity at HQ
+    Amount of rocks on the map
+    Frequency and severity of threats 
+
+The game is meant for the SG-1000, SC-3000, Mark III and Master System. It was not tested on real hardware. but it seems to work ok in emulators.
+
+While Io is still work in progress (e.g. no sound or music yet, no sports pad support, no variation in levels) it is already quite playable. 
+Early versions for the ColecoVision were presented earlier on the AtariAge forums (http://atariage.com/forums/topic/261988-homebrew-sulphur-mining-game-io/), 
+but the version 0.12 submitted to the competition has substantial improvements over those earlier versions and is much more playable. 

@@ -1,0 +1,9 @@
+Bacachase 
+nitrofurano
+25 Oct 2016
+Bacachase ported to SMS
+
+This time the originality is zero, though, as this is a somewhat well crafted version 
+of the old game “Robot Chase” in which a bunch of evil guys (or robots) chase after you relentlestly albeit in turns – 
+You move, they move. If two baddies collide with each other, they die (become Zombies) and you score 
+(you score points, don’t get me wrong, there’s nothing to do with necrophilia in this game). 
