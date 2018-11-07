@@ -84,6 +84,18 @@
      <genre>Astroswab</genre>
      <players>1</players>
    </game>
+    <game>
+     <path>./bacachase.sms</path>
+     <name>Bacachase</name>
+     <desc>This is a somewhat well crafted version of the old game "Robot Chase" in which a bunch of evil guys (or robots) chase after you relentlestly albeit in turns - You move, they move. If two baddies collide with each other, they die (become Zombies) and you score.</desc>
+     <image>./bacachase.png</image>
+     <rating>0</rating>
+     <releasedate>20161025T000000</releasedate>
+     <developer>Nitrofurano</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bacachase</genre>
+     <players>1</players>
+   </game>
    <game>
      <path>./balubabalok.sms</path>
      <name>Baluba Balok</name>
@@ -240,6 +252,18 @@
      <genre>Chappie&apos;s ears Simon game</genre>
      <players>1</players>
    </game>
+    <game>
+     <path>./cix.sms</path>
+     <name>Cix</name>
+     <desc>Cix is an action/puzzle game inspired by Qix. It has a simultaneous two-player mode. The goal of the game is to claim a supermajority of the playing field by fencing off parts of the central black area, filling them with blue.</desc>
+     <image>./cix.png</image>
+     <rating>0</rating>
+     <releasedate>20160327T000000</releasedate>
+     <developer>PkK</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cix</genre>
+     <players>1-2</players>
+   </game>
    <game>
      <path>./colossalcaveadventure.sms</path>
      <name>Colossal Cave Adventure SAM Edition</name>
@@ -250,6 +274,18 @@
      <developer>Haroldoop</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Colossal Cave Adventure SAM Edition</genre>
+     <players>1</players>
+   </game>
+    <game>
+     <path>./cye.sms</path>
+     <name>Cye</name>
+     <desc>This is a port of the Boulderdash/Sokoban-like game Kye to the Sega consoles.</desc>
+     <image>./cye.png</image>
+     <rating>0</rating>
+     <releasedate>20160328T000000</releasedate>
+     <developer>PkK</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Cye</genre>
      <players>1</players>
    </game>
    <game>
@@ -394,6 +430,18 @@
      <developer>Haroldo O. Pinheiro</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Headless Ninja Volley</genre>
+     <players>1-2</players>
+   </game>
+    <game>
+     <path>./io.sms</path>
+     <name>Io</name>
+     <desc>The game is about managing a sulphur mine. The main aspect of the game is to supply enough sulphur to your HQ by building a transportation network consisting of sulphur sources, depots, roads and rail. At the start of the game, you should first  connect your first sulphur source to the HQ. Rail connections have higher capacity than roads, but need more time to construct. One unupgraded sulphur source supplies enough sulphur for one idle worker. Busy workers need twice as much. Building nodes in empty space results in sulphur depots. Building nodes on sulphur vents results in sulphur sources.</desc>
+     <image>./io.png</image>
+     <rating>0</rating>
+     <releasedate>20170327T000000</releasedate>
+     <developer>PkK</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Io</genre>
      <players>1-2</players>
    </game>
    <game>
