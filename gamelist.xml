@@ -590,26 +590,26 @@
    </game>
    <game>
      <path>./racerclassic.sms</path>
-     <name>Racer 1 (classic)</name>
+     <name>Racer 1</name>
      <desc>You find yourself on the track - ready to go! Race full speed up the track, and avoid enemy cars as you overtake them. At first there is only one enemy, but that will change soon enough. Keep calm and stay alive for as long as you can. The game starts with a humble hiscore of 200. Break that hiscore. Die a couple of times. Feel the almost flappy bird-like gameplay frustration. Invite your friend/wife/husband/kids, and let them have a go at beating your hiscore. Put Racer on next time you throw a party. The unforgiving, fast and super simple gameplay will hopefully both motivate you... and piss you off!</desc>
      <image>./racerclassic.png</image>
      <rating>0</rating>
      <releasedate>20150324T000000</releasedate>
      <developer>Hang-on</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Racer 1 (classic)</genre>
+     <genre>Racer 1 [classic]</genre>
      <players>1</players>
    </game>
    <game>
      <path>./racerrebooted.sms</path>
-     <name>Racer 2 (rebooted)</name>
+     <name>Racer 2</name>
      <desc>Racer is back! Race full speed up the track, and avoid enemy cars as you overtake them. Keep calm and stay alive for as long as you can.</desc>
      <image>./racerrebooted.png</image>
      <rating>0</rating>
      <releasedate>20151126T000000</releasedate>
      <developer>Hang-on</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Racer 2 (rebooted)</genre>
+     <genre>Racer 2 [rebooted]</genre>
      <players>1</players>
    </game>
    <game>
