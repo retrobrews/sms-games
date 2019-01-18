@@ -685,6 +685,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./spacehawks.sms</path>
+     <name>Space Hawks</name>
+     <desc>Space Hawks is a galactic shoot&apos;em up in the style of Galaxian. As in Galaxian, the player&apos;s space ship can only move along the horizontal axis. When an alien is killed, the player must avoid the debris of the alien. At advanced levels the player must also be careful with space mines that move around the game screen. This game is the unofficial port of the Amstrad game to the Sega Master System. </desc>
+     <image>./spacehawks.png</image>
+     <rating>0</rating>
+     <releasedate>20161026T000000</releasedate>
+     <developer>KanedaFr</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Space Hawks</genre>
+     <players>1-2</players>
+   </game>
+   <game>
      <path>./swordstrike.sms</path>
      <name>Sword Strike</name>
      <desc>You are a knight and your lord has sent you on a daring midnight raid. A passage has been found into the enemy&apos;s castle. Now you must prepare for close quarters combat! Draw your sword. Defeat all the enemy knights and soldiers and you watch their castle  burn at night. Fail, and your corpse will be left where it fell. It only takes one blow to win or die, so be careful!</desc>
