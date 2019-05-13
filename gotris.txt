@@ -1,0 +1,23 @@
+Gotris (gotrisv.0.8-PAL.sms)
+by Kusfo, ManuTrigger, Davidian
+27 Mar 2019
+
+Gotris is the impossible mix of the ancient game of GO and the mighty Tetris. 
+Surround pieces from one colour with the ones of the other colour in order to clear them and earn points!
+
+Gotris is based in a prototype game that I made with PyGame back in 2006-2007. 
+I never polished it, but I had the concept in the back of my mind. 
+As I spent a couple of weeks on medical leave at the beginning of March, I decided to try to port the idea to the SMS. 
+It has been programmed on a hurry, recycling some code from other projects, and it can be improved a lot, but it's playable. 
+It has used devkitSMS by Sverx.
+
+Graphics have been done by ManuTrigger, and music has to be provided by Davidian. 
+First version has placeholder music from another project.
+
+Things to improve:
+
+    Better Playability (not really challenging now)
+    Different ingame backgrounds
+
+http://www.smspower.org/Homebrew/Gotris-SMS
+http://www.smspower.org/forums/17412-CodingCompetition2019GotrisByKusfoManuTriggerDavidian
