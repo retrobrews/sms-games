@@ -7,7 +7,7 @@
      <image>./2048grz.png</image>
      <rating>0</rating>
      <releasedate>20141005T000000</releasedate>
-     <developer>Julien Verneuil aka Grz-</developer>
+     <developer>Julien Verneuil (Grz-)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>2048</genre>
      <players>1</players>
@@ -55,7 +55,7 @@
      <image>./artillerymaster8k.png</image>
      <rating>0</rating>
      <releasedate>20060816T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Artillery Master 8k</genre>
      <players>2</players>
@@ -271,7 +271,7 @@
      <image>./colossalcaveadventure.png</image>
      <rating>0</rating>
      <releasedate>20140325T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Colossal Cave Adventure SAM Edition</genre>
      <players>1</players>
@@ -295,7 +295,7 @@
      <image>./datastorm.png</image>
      <rating>0</rating>
      <releasedate>20160306T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Data Storm</genre>
      <players>1</players>
@@ -307,7 +307,7 @@
      <image>./datingsim.png</image>
      <rating>0</rating>
      <releasedate>20170404T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Dating Sim</genre>
      <players>1</players>
@@ -355,7 +355,7 @@
      <image>./duckslayeradventures.png</image>
      <rating>0</rating>
      <releasedate>20180402T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Duckslayer Adventures</genre>
      <players>1</players>
@@ -409,6 +409,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./gotris.sms</path>
+     <name>Gotris</name>
+     <desc>Gotris is the impossible mix of the ancient game of GO and the mighty Tetris. Surround pieces from one colour with the ones of the other colour in order to clear them and earn points!</desc>
+     <image>./gotris.png</image>
+     <rating>0</rating>
+     <releasedate>20190327T000000</releasedate>
+     <developer>Kusfo, ManuTrigger, Davidian</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Gotris [v.0.8]</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./gravitybeam.sms</path>
      <name>Gravity Beam: Master Gaiden</name>
      <desc>It is the 33rd century. Humanity continues its colonisation of the Red Planet, Mars. Colonists and miners have worked tirelessly for many years, excavating caverns of unimaginable scope throughout the core of the planet in search of elusive subterranean minerals. This devastating work is viewed with contempt by many fringe groups in colonised space. Private security and intelligence forces are stretched to breaking point protecting those trying to tame the Red Planet. One group in particular, claiming to be allies of the &apos;guardian daimon&apos; of Mars, have struck many savage blows against the colonisation effort, attacking mining facilities, dormitories, miners, engineers, scientists and their families indiscriminately. They claim that the colonisation efforts are causing irreparable damage to the natural ecosystem of Mars, and demand that humanity leave at once. Admist all this madness, a terrorist cell activates after a decade-long infiltration into the heart of colonial governance. They take a number of key colonisation personnel hostage. Their demand: the absolute abandonment of Mars by the human race within twenty-four Earth hours. The security forces deal with the immediate threat after a bloody and protracted siege... but, with his final words, the leader of the cell leaves a chilling warning... "You may think you have won, but you can -never- win. We have planted a nuclear device in the heart of Mars. A device capable of annihilating the entire planet." "The bomb is armed." This is where you come in. You are an ace pilot. The best. Your trusty ship, the Greenwing, is equipped with a state of the art Gravity BeamTM, capable of hauling any cargo through the most treacherous terrain. With only minutes before the bomb detonates, you fly directly into the caverns of Mars... You&apos;ve never had to carry a nuclear bomb before, but how dangerous can it be? Your mission: - Negotiate the caverns of Mars and locate the nuclear device; - Engage your ship&apos;s GRAVITY BEAM to attach the device to your ship; - Carry it back through the caves and out into space, where it can then be detonated safely. GOOD LUCK, pilot. And GODSPEED. </desc>
@@ -427,7 +439,7 @@
      <image>./headlessninjavolley.png</image>
      <rating>0</rating>
      <releasedate>20080303T000000</releasedate>
-     <developer>Haroldo O. Pinheiro</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Headless Ninja Volley</genre>
      <players>1-2</players>
@@ -535,7 +547,7 @@
      <image>./nanowars8k.png</image>
      <rating>0</rating>
      <releasedate>20060805T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>NanoWars 8k</genre>
      <players>1</players>
@@ -553,13 +565,25 @@
      <players>1</players>
    </game>
    <game>
+     <path>./platformexplorer.sms</path>
+     <name>Platform Explorer</name>
+     <desc>Platform Explorer is a port of the XNA Platform starter kit for the Sega Master System with 40 levels. Move left and right and fire1 to jump. Hold fire2 to reset player during play. Easy or hard difficulty. Avoid all enemies + guards and watch out for the pits!</desc>
+     <image>./platformexplorer.png</image>
+     <rating>0</rating>
+     <releasedate>20190327T000000</releasedate>
+     <developer>Steven Boland (SteveProXNA)</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Platform Explorer [v.3.0]</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./pongmaster.sms</path>
      <name>Pong Master</name>
      <desc>Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other.</desc>
      <image>./pongmaster.png</image>
      <rating>0</rating>
      <releasedate>20060327T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Pong Master</genre>
      <players>1</players>
@@ -655,7 +679,7 @@
      <image>./simpsonstrivia.png</image>
      <rating>0</rating>
      <releasedate>20180330T000000</releasedate>
-     <developer>SteveProXNA</developer>
+     <developer>Steven Boland (SteveProXNA)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Simpsons Trivia</genre>
      <players>1</players>
@@ -679,7 +703,7 @@
      <image>./sokomaster.png</image>
      <rating>0</rating>
      <releasedate>20070325T000000</releasedate>
-     <developer>Haroldoop</developer>
+     <developer>Haroldo Pinheiro (Haroldoop)</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>SokoMaster</genre>
      <players>1</players>
